@@ -92,11 +92,11 @@ But no service points could be converted into public service points.
 ##### Service points conversion
 
 Before converting a point to another one, we must have a "route" between these two points.
-A route has a orientation and a conversion ratio.
+A route has an orientation and a conversion ratio.
 To understand routes more easily, let us define two services: A and B.
 A and B have no routes between them.
 To create one or two routes between A and B, the owner of service A must agree to a conversion ratio with the owner of service B.
-Then, a route from A to B or from B to A (or both. It depends on the agreement made between the owner of service A and the owner of service B) can be created.
+Then, a route from A to B or from B to A (or both, it depends on the agreement made between the owner of service A and the owner of service B) can be created.
 
 You can delete a route that goes from one of your service to a service owned by a different person without condition.
 Once you delete this route, the owner of the other service will be notified.
@@ -209,3 +209,21 @@ Fast public wish list (same as the public list, but the only human action needed
 No item acquired for a price P must be sold for a higher price.
 
 Must define the stack-algorithm for the routes
+
+## Questions and problems to answer
+
+What and who defines the points ratio ? If it is a system or sth, they will sure need information about the amount and quality of work done. This means that everyone is going to be monitored, and brings a big privacy problem.
+
+To go on, making a ratio means that some jobs will be more rewarding than others. This brings an inegality problem that will lead people to do a job they don't want to do by greed or because of someone forcing them.
+
+The ratios will change according to the supply and demand (or sth else anyway they will move), wich means that public services will never be exchanged with something the exchanger wants, but the most valuable ratio point that he could get. He will then exchange his point with another and by that, he will have gained more than he would by exchanging with the points he wants. This also makes place for a market of traders who will get a massive amount of points only by exchanging their points with good ratios only because they are good ratios. Those people will be able to get a lot of badges AND points only by being selfish.
+
+How are the badges given ? How will administrators be choosen ? What powers will they gain ? Initial members of the Akyanet project could be corrupted and bad, but because they have the badge, they could do whatever they want. If they were to make a trade, they wouldn't even need a quality badge or sth because people would respect them only because of their badge. 
+If administrators are elected, they could simply ask people to elect them and they would give them a badge afterward. They could have a ton of ways by going with corruption.
+For example, someone could also give points to those administrators to get a badge
+
+Points are same as money. They are only unstable currencies, kind of like cryptocurrencies.
+
+The system is mainly based on confidence. It is obvious that immoral people will get rich. To begin with, why would someone who has a lot of points want to give them away, except for a badge he already has, after giving away a tiny share of his points ? Even if almost everyone believes in the system and live happily, there will always be an impostor among them, and the more honest people there are, the more the impostor will be wealthy. Then, more impostors will come until the confidence is broken.
+
+We come to another problem : let's admit for example that there is a natural disaster, a pandemic ot an other huge problem with something, wich hospitalize a lot of people. There won't be enough places in hospitals to put everyone in. In this case, the rich people will be the first to get in the hospital, because they can pay them more than others. This will lead to inequalities, and will put in people's mind that the richer you get the safer and better you are.
