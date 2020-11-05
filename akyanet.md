@@ -193,9 +193,30 @@ A will is defined as a certified will when it meets all these conditions:
 - It contains the date of the document writing's end.
 - ...
 
+[WIP]
+
 ### Army
 
+Joining the army is optional. No one must be forced to join the army.
+
+You can leave the army whenever you want.
+
+The goals of the Akyanet army are:
+
+- Promoting peace inside and outside Akyanet.
+- Banning mass destruction weapons everywhere.
+- Banning weapons everywhere.
+- Helping regions to join Akyanet if they are willing to.
+- Helping non-Akyanet regions' population in case of dramatic events (for example, global health issues).
+- Helping for the maintenance of public facilities as well as for public tasks.
+
+TODO: Talk about whether or not army and police can have weapons. Talk about the right to kill.
+
 ### Selling products to non-Akyanet entities
+
+You have the right to sell your products to non-Akyanet entites but this not advised.
+
+Nevertheless, if you sell a product to a non-Akyanet entity, you can give a part of the earnings to Akyanet and choose for what it should be used.
 
 ## Ideas
 
