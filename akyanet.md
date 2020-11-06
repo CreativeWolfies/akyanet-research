@@ -58,6 +58,16 @@ The goal is to make everyone equal.
 In this case, "equal" does not mean having the same thoughts, the same opinions, clothes, etc.
 But rather equal access to justice, equal access to vote, equal access to resources, equal access to education and so on.
 
+### About this document
+
+Currently, the whole document is just a draft opened to suggestions.
+If we want to make Akyanet real, we need more people to work on this projet.
+
+For example, the point system was created by PhirosWolf.
+But I, PhirosWolf, know that it is not a perfect system and it lacks a lot of features.
+But at least, I'm suggesting how this system could work.
+By doing this, some people will maybe have another idea to improve this system.
+
 ### Akyanet development
 
 The first step is to create a basic and online version of Akyanet so that we can improve the foundations of Akyanet.
@@ -162,6 +172,21 @@ Some examples of badges are given below.
 New badges can only be created by the badges administration.
 Every member of Akyanet can submit badge ideas to the badges administration.
 
+### Administration
+
+#### Concept
+
+The administration is a set of multiple, smaller, administrations.
+We do not want a centralized administration which is all-powerful.
+
+Ideally, each administration should have a council composed of enough people to reduce signifficantly the probability of corruption.
+For example, a council of 100 people is enough.
+
+#### Seats allocation
+
+The council should be representative of the community.
+To do so, [Schulze STV] must be used.
+
 ## Drafts (W.I.P.)
 
 ### Inheritance and will
@@ -239,7 +264,7 @@ To go on, making a ratio means that some jobs will be more rewarding than others
 
 The ratios will change according to the supply and demand (or sth else anyway they will move), wich means that public services will never be exchanged with something the exchanger wants, but the most valuable ratio point that he could get. He will then exchange his point with another and by that, he will have gained more than he would by exchanging with the points he wants. This also makes place for a market of traders who will get a massive amount of points only by exchanging their points with good ratios only because they are good ratios. Those people will be able to get a lot of badges AND points only by being selfish.
 
-How are the badges given ? How will administrators be choosen ? What powers will they gain ? Initial members of the Akyanet project could be corrupted and bad, but because they have the badge, they could do whatever they want. If they were to make a trade, they wouldn't even need a quality badge or sth because people would respect them only because of their badge. 
+How are the badges given ? How will administrators be choosen ? What powers will they gain ? Initial members of the Akyanet project could be corrupted and bad, but because they have the badge, they could do whatever they want. If they were to make a trade, they wouldn't even need a quality badge or sth because people would respect them only because of their badge.
 If administrators are elected, they could simply ask people to elect them and they would give them a badge afterward. They could have a ton of ways by going with corruption.
 For example, someone could also give points to those administrators to get a badge
 
@@ -248,3 +273,6 @@ Points are same as money. They are only unstable currencies, kind of like crypto
 The system is mainly based on confidence. It is obvious that immoral people will get rich. To begin with, why would someone who has a lot of points want to give them away, except for a badge he already has, after giving away a tiny share of his points ? Even if almost everyone believes in the system and live happily, there will always be an impostor among them, and the more honest people there are, the more the impostor will be wealthy. Then, more impostors will come until the confidence is broken.
 
 We come to another problem : let's admit for example that there is a natural disaster, a pandemic ot an other huge problem with something, wich hospitalize a lot of people. There won't be enough places in hospitals to put everyone in. In this case, the rich people will be the first to get in the hospital, because they can pay them more than others. This will lead to inequalities, and will put in people's mind that the richer you get the safer and better you are.
+
+
+[Schulze STV]: https://en.wikipedia.org/wiki/Schulze_STV
