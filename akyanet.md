@@ -85,6 +85,8 @@ None of these steps must cause indirect and/or direct harm to anyone.
 
 #### Service points
 
+Note: this system should be updated. We are still trying to find a working ""payement"" system.
+
 Service points are the basis of every exchange in Akyanet.
 A point should take into account the geographic context of the producer, the producer situation, the service quality, the time of production, and much more.
 But, for instance, service quality is pretty difficult to quantify, so, Akyanet uses another system, which is also based on points.
@@ -172,20 +174,37 @@ Some examples of badges are given below.
 New badges can only be created by the badges administration.
 Every member of Akyanet can submit badge ideas to the badges administration.
 
-### Administration
+#### Administration
 
-#### Concept
+##### Concept
 
 The administration is a set of multiple, smaller, administrations.
 We do not want a centralized administration which is all-powerful.
 
 Ideally, each administration should have a council composed of enough people to reduce signifficantly the probability of corruption.
-For example, a council of 100 people is enough.
+For example, a council of 100 people is probably enough.
 
-#### Seats allocation
+##### Seats allocation
 
-The council should be representative of the community.
+The council should be representative of the community **and** of the concerned community (e.g. students and teachers for the education administration).
 To do so, [Schulze STV] must be used.
+
+##### Decentralization
+
+Decentralization is the key of the whole system. Without decentralization, the power is given into the hands of a few people.
+And as we are experiencing in our current society, giving power to a small group is dangerous.
+Power corrupts. It can even corrupt the best.
+
+### Notes
+
+#### About religion
+
+In Akyanet, religious groups are still allowed.
+But there is a few restrictions they shall respect:
+- Religious propaganda is prohibited.
+- Religious indoctrination is prohibited.
+- Everyone should be able to join and leave a religious group without having to pay a joining or leaving fee of any kind.
+- Religious structures (parishes, churches, cathedrals, ...) will be used to other purposes. If a religious group wants a meeting place, they shall use public structures or public facilities.
 
 ## Drafts (W.I.P.)
 
