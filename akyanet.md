@@ -1,4 +1,4 @@
-<img src="/assets/images/akyanet-logo.png" alt="Akyanet logo" width="500" height="500" />
+<img src="/assets/images/akyanet-logo.svg" alt="Akyanet logo" width="500" height="300" />
 
 # Akyanet documentation
 
@@ -56,7 +56,7 @@ Basically, this propaganda from the past is having a long-lasting effect on the 
 Unfortunately, this is not the only word suffering from misnaming. Let us take the case of "anarchism".
 As for the previous word, here is the definition from Wikipedia:
 > Anarchism is a political philosophy and movement that is **sceptical of authority and rejects all involuntary, coercive forms of hierarchy**.
-> Anarchism calls for the ""abolition of the state, which it holds to be undesirable, unnecessary, and harmful**.
+> Anarchism calls for the **abolition of the state, which it holds to be undesirable, unnecessary, and harmful**.
 > It is usually described alongside libertarian Marxism as the libertarian wing (libertarian socialism) of the socialist movement and as having a historical association with anti-capitalism and socialism.
 
 And the popular definition could be expressed simply by "the abolition of all rules, chaos; Confusion and disorder". But this is a confusion with [anomie](https://en.wiktionary.org/wiki/anomie). Wiktionary:
@@ -68,8 +68,26 @@ Now that you have the correct definitions, we can define what is the purpose of 
 
 Akyanet has many goals and they will evolve over time, so we will list a few foundamental ones.
 
-"Better" should no longer mean "more profitable", it should just stick to its original definition. i.e. "To surpass in excellence; to exceed; to excel.". In Akyanet, it could also mean improving the social welfare.
+"Better" should no longer mean "more profitable", it should just stick to its original definition. i.e. "To surpass in excellence; to exceed; to excel.".
+In Akyanet, it could also mean improving the social welfare.
 
-Everyone should be equal. This means nobody should be oppressed, discriminated, or prevented from taking part in the development of Akyanet.
+Everyone should be equal.
+This means nobody should be oppressed, discriminated, or prevented from taking part in the development of Akyanet.
 
-Hierarchies must be prohibited **except** when they are vital. For example, on a ship, there must be a captain to give orders as for piloting the ship correctly. But the captain must be aware that he is not in a position of power. This means that the captain could also do some chores on the ship if it does not compromise the safety of the people on board.
+Hierarchies must be prohibited **except** when they are vital.
+For example, on a ship, there must be a captain to give orders as for piloting the ship correctly.
+But the captain must be aware that he is not in a position of power.
+This means that the captain could also do some chores on the ship if it does not compromise the safety of the people on board.
+
+We must seek to achieve total autonomy within Akyanet.
+Which means that the community is able to give appropriate housing for everyone, food, electricity, running water, heating, internet, etc. without external help.
+But it does not mean that we should isolate from people that are not part of Akyanet.
+
+Money should be abolished because it will become obsolete (see next section).
+
+Art should remain art. In our current capitalist society, art is worthless except if you can sell it.
+And to sell it, it must become a product and not art.
+Imagine being a talented painter that can paint magnificent landscapes but with your own style and also know how to paint with a style similar to Picasso, but you do not like painting this way.
+Well, within the capitalist society, since your own style does not matter, you will be forced to make Picasso-like paintings because you cannot live off your own style.
+
+Ecology must be a priority. Unsustainable energy must be prohibited except for research purposes.
