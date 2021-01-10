@@ -80,10 +80,10 @@ But the captain must be aware that he is not in a position of power.
 This means that the captain could also do some chores on the ship if it does not compromise the safety of the people on board.
 
 We must seek to achieve total autonomy within Akyanet.
-Which means that the community is able to give appropriate housing for everyone, food, electricity, running water, heating, internet, etc. without external help.
+Which means that the community is able to give appropriate housing for everyone, food, electricity, running water, heating, internet, health services, etc. without external help.
 But it does not mean that we should isolate from people that are not part of Akyanet.
 
-Money should be abolished because it will become obsolete (see next section).
+Money should be abolished because it will become obsolete (we will talk about that in next chapters).
 
 Art should remain art. In our current capitalist society, art is worthless except if you can sell it.
 And to sell it, it must become a product and not art.
@@ -91,3 +91,68 @@ Imagine being a talented painter that can paint magnificent landscapes but with 
 Well, within the capitalist society, since your own style does not matter, you will be forced to make Picasso-like paintings because you cannot live off your own style.
 
 Ecology must be a priority. Unsustainable energy must be prohibited except for research purposes.
+
+## How Akyanet works
+
+In this chapter, we will talk about how Akyanet is organized. But keep in mind that it could evolve over time if the members democratically decide to change the organisation.
+
+### Districts, communes, and union of communes
+
+Let us begin by districts.
+A district is a group of 150 people maximum to prevent social isolation.
+Exceptions can be made when, for example, you have a 152 people living near each other but are far from other groups of people.
+
+A commune is a union of districts.
+Preferably geographicaly near one another.
+Communes are limited to 10000 people but as for the districts, there can be exceptions, and this limit can change over time.
+
+Unions of communes are... unions of communes, obviously.
+As for the communes, it is preferable that they are geographicaly near one another.
+Unions of communes are not limited in population.
+
+### Joining a district and social contract
+
+You can join a district whenever you want.
+There are no prerequisites for joining a district.
+
+When you want to join a district, you will need to establish a contract with people responsible for this task (which are chosen democratically by the district members, so it could be the district council, an individual, or the whole district. It is entirely up to the district).
+This contract, called the social contract, will describe what the district guarantees to you (housing, food, etc.) and what you guarantee to give to the district (performing essential tasks, etc.).
+
+The social contract must respect the rules defined by the Global Coordinator (more on that later).
+Additional terms of the contract are to be defined when establishing the contract.
+
+### Essential tasks
+
+In every commune or district, depending on their geographical situation, random members or all members depending on the number of tasks will be asked to perform certain tasks (for example, cleaning the streets, taking out the trash, ...) according to their social contract.
+
+Members can ask to have another task attributed to them but they must understand that every task is essential and if they slightly dislike their attributed task, it is not really a good reason to ask for another attribution.
+But coercive forces must be avoided, so the commune or the district will have to make sure that everyone knows why they are doing these tasks and how they are essential.
+
+If two members agree on exchanging their tasks, it is up to the district/commune council to decide if they can do it without prior authorization from the district/commune council.
+This authorization is sometimes needed to be sure that the members know how to perform their task.
+But as always, coercive forces must be avoided at all costs.
+
+It is up to the district to choose how and when the tasks will be attributed.
+
+If a district does not have enough people to perform all essential tasks, the district can ask for help from the commune.
+
+### Politics, Justice, and laws
+
+Each district have a district council which is in charge of representing the district at the communal level.
+The district representatives will be chosen by sortition (random selection).
+Normally, there will be 5 representatives by district.
+Exceptions to this rule can occur when the district is composed of less than 5 people or when the people agreeing to take the role of district representative is less than 5.
+
+<!-- TODO: Gerrymandering must avoided, find a solution. -->
+
+### Global Coordinator
+
+## Resources
+
+### Images
+
+- [Akyanet flag](./assets/images/akyanet-logo.svg)
+
+### Videos
+
+- [NonCompete's video series "How Anarchism Works"](https://www.youtube.com/watch?v=ZzEl5RIMp7M&list=PLCcemL_x8RtdtFuib1Wl6VwyuYOEDb5Wv&index=1)
