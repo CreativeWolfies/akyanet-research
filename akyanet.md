@@ -136,14 +136,36 @@ It is up to the district to choose how and when the tasks will be attributed.
 
 If a district does not have enough people to perform all essential tasks, the district can ask for help from the commune.
 
-### Politics, Justice, and laws
+### Politics
 
 Each district have a district council which is in charge of representing the district at the communal level.
-The district representatives will be chosen by sortition (random selection).
-Normally, there will be 5 representatives by district.
-Exceptions to this rule can occur when the district is composed of less than 5 people or when the people agreeing to take the role of district representative is less than 5.
+The representatives are elected by the district using [Schulze STV](https://en.wikipedia.org/wiki/Schulze_STV) and they have a 3 month mandate.
+Representatives can be revoked at any time if the majority (50% + 1) of the district members vote to.
 
-<!-- TODO: Gerrymandering must avoided, find a solution. -->
+The role of a representative is to represent the interests of a district and to explain to its district what the subjects were at the commune, what they will vote in the next weeks, etc.
+The representatives cannot vote on behalf of the district, instead, all the commune members will vote.
+Any subject (change in communal rules, tasks organisation, ...) is passed only if the majority (50% + 1) of the commune members vote for.
+
+Unions of communes works in the same way.
+But instead of electing representatives in each district, representatives will be elected in each commune by the commune members using [Schulze STV](https://en.wikipedia.org/wiki/Schulze_STV).
+
+This means that districts cannot choose representatives if they have a population of less than 3 people.
+In this case, all the district population are their own representatives.
+
+Everyone can spectate the communal council meetings and the meetings of the union of communes.
+
+Regularly organising meetings with the district and its representatives is strongly advised.
+
+### Justice
+
+If a member violates the district rules, the communal rules, the rules of the union of communes, or the rules of the Global Coordinator, he will be assigned to a psychological or medical intervention depending on the rule that has been violated.
+
+If you see a member violating a rule, you can report it to the social workers of the commune or to one of the assigned associations for this task.
+
+If you have a problem with another member but it is not governed by the local rules, you can either talk about your problem to members of your district and/or to the local social workers to solve your problem quickly by finding common ground, but if this does not work, you can submit your case to one of the assigned associations for this task.
+
+In cases of recidivism, violent actions, etc., emergency response teams can be dispatched to prevent the problematic member to harm other members.
+Then, the district or commune (if the district refuses to take the case) where the member is living can decide the fate of his social contract and if he need a psychological or medical intervention, if he need to understand more about something (social workers will take care of this), or, in extreme cases, if hee need to be kicked from his district/commune/union of commune or even Akyanet.
 
 ### Global Coordinator
 
