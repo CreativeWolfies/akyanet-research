@@ -165,9 +165,44 @@ If you see a member violating a rule, you can report it to the social workers of
 If you have a problem with another member but it is not governed by the local rules, you can either talk about your problem to members of your district and/or to the local social workers to solve your problem quickly by finding common ground, but if this does not work, you can submit your case to one of the assigned associations for this task.
 
 In cases of recidivism, violent actions, etc., emergency response teams can be dispatched to prevent the problematic member to harm other members.
-Then, the district or commune (if the district refuses to take the case) where the member is living can decide the fate of his social contract and if he need a psychological or medical intervention, if he need to understand more about something (social workers will take care of this), or, in extreme cases, if hee need to be kicked from his district/commune/union of commune or even Akyanet.
+Then, the district or commune (if the district refuses to take the case) where the member is living can decide the fate of his social contract and if he need a psychological or medical intervention, if he need to understand more about something (social workers will take care of this), or, in extreme cases, if he need to be kicked from his district/commune/union of commune or even Akyanet.
+But you must remember that coercive forces must be avoided.
 
 ### Global Coordinator
+
+The Global Coordinator, or GC, is a group of representatives, emergency response teams' representatives, professionals, experts, and individuals.
+They are all revokable.
+
+Everyone can join the Global Coordinator, but they must be aware that their work will be public (open-source).
+
+The purpose of the Global Coordinator is to solve major problems.
+
+The to do list is a priority queue that can be found online.
+This means everyone can submit a task to the list, but they must have a certain number of upvotes to have a greater priority.
+
+Tasks with less than 100 upvotes within 100 days from the day of the day of the task's submission will be removed from the queue.
+They can also be removed if the task have more than 100 downvotes within 50 days from the day of the task's submission.
+
+These numbers will evolve depending of the number of members in Akyanet.
+
+If the same task is added to the queue within 50 days from the removal of the task, it will be instantly removed from the queue.
+
+When submitting a task, it has, by default, 0 upvotes.
+As a reminder, one upvote plus one downvote = 0.
+
+The Global Coordinator also defines the rules that everyone must respect.
+To add, remove, or change one of these rules, you will need to submit a task about this in the Global Coordinator to do list (priority queue), then, the Global Coordinator will organise a vote where the entire community of Akyanet will participate.
+The subject of the vote is passed if the majority (50% + 1) of the community voted for.
+
+### Voting
+
+Voting is pretty difficult to implement.
+This is why this version of this document is not precise about every case (for exemple, in case of major health issues (pandemics, ...)) and how they should be handled.
+
+*PhirosWolf's note*:
+> I'm not an expert on every subject, so if you have an idea of how this document could be more precise and/or cover more subjects, you could always help me to complete this document.
+
+When talking about majority in voting and writing `(50% + 1)` next to it, it means 50% of the concerned community plus one vote is necessary to define it as the majority.
 
 ## Resources
 
