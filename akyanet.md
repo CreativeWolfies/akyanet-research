@@ -45,7 +45,7 @@ The reason of this change becomes clear when you focus on every details of our w
 ## What is Akyanet?
 
 Akyanet is a new society based on the anarcho-communist ideology.
-Many fear the words "communism" and "anarchism" because of their current connation.
+Many fear the words "communism" and "anarchism" because of their current connotation.
 Let us take the first word, "communism". According to Wikipedia:
 > Communism is a philosophical, social, political and economic ideology and movement whose ultimate goal is the establishment of a communist society, namely a socioeconomic orderstructured upon **the ideas of common ownership of the means of production and the absence of social classes, money and the state.**
 
@@ -66,7 +66,7 @@ Now that you have the correct definitions, we can define what is the purpose of 
 
 ## The goals of Akyanet
 
-Akyanet has many goals and they will evolve over time, so we will list a few foundamental ones.
+Akyanet has many goals and they will evolve over time, we are going to list a few foundamental ones.
 
 "Better" should no longer mean "more profitable", it should just stick to its original definition. i.e. "To surpass in excellence; to exceed; to excel.".
 In Akyanet, it could also mean improving the social welfare.
@@ -103,7 +103,7 @@ A district is a group of 150 people maximum to prevent social isolation.
 Exceptions can be made when, for example, you have a 152 people living near each other but are far from other groups of people.
 
 A commune is a union of districts.
-Preferably geographicaly near one another.
+Preferably geographicaly close to each other.
 Communes are limited to 10000 people but as for the districts, there can be exceptions, and this limit can change over time.
 
 Unions of communes are... unions of communes, obviously.
