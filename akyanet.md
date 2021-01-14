@@ -46,7 +46,7 @@ The reason of this change becomes clear when you focus on every details of our w
 
 Akyanet is a new society based on the anarcho-communist ideology.
 Many fear the words "communism" and "anarchism" because of their current connotation.
-Let us take the first word, "communism". According to Wikipedia:
+Let us take the first word, "communism". According to [Wikipedia](https://en.wikipedia.org/wiki/Communism):
 > Communism is a philosophical, social, political and economic ideology and movement whose ultimate goal is the establishment of a communist society, namely a socioeconomic orderstructured upon **the ideas of common ownership of the means of production and the absence of social classes, money and the state.**
 
 This is pretty different from the totalitarian dictatorship many people think.
@@ -54,7 +54,7 @@ This misnamed definition perhaps originates from [McCarthyism](https://en.wikipe
 Basically, this propaganda from the past is having a long-lasting effect on the word "communism".
 
 Unfortunately, this is not the only word suffering from misnaming. Let us take the case of "anarchism".
-As for the previous word, here is the definition from Wikipedia:
+As for the previous word, here is the definition from [Wikipedia](https://en.wikipedia.org/wiki/Anarchism):
 > Anarchism is a political philosophy and movement that is **sceptical of authority and rejects all involuntary, coercive forms of hierarchy**.
 > Anarchism calls for the **abolition of the state, which it holds to be undesirable, unnecessary, and harmful**.
 > It is usually described alongside libertarian Marxism as the libertarian wing (libertarian socialism) of the socialist movement and as having a historical association with anti-capitalism and socialism.
@@ -110,7 +110,7 @@ Unions of communes are... unions of communes, obviously.
 As for the communes, it is preferable that they are geographicaly near one another.
 Unions of communes are not limited in population.
 
-### Joining a district and social contract
+### Joining a district, Leaving a district, and the social contract
 
 You can join a district whenever you want.
 There are no prerequisites for joining a district.
@@ -120,6 +120,8 @@ This contract, called the social contract, will describe what the district guara
 
 The social contract must respect the rules defined by the Global Coordinator (more on that later).
 Additional terms of the contract are to be defined when establishing the contract.
+
+You have the right to leave your district, your commune, and your union of communes whenever you want.
 
 ### Essential tasks
 
@@ -133,6 +135,9 @@ This authorization is sometimes needed to be sure that the members know how to p
 But as always, coercive forces must be avoided at all costs.
 
 It is up to the district to choose how and when the tasks will be attributed.
+
+Given tasks should be adapted to each individual according to their work and their capabilities.
+For example, students will be given tasks relative to the subjects they are studying so that they can improve their education while helping the community by doing essential tasks.
 
 If a district does not have enough people to perform all essential tasks, the district can ask for help from the commune.
 
@@ -155,6 +160,9 @@ In this case, all the district population are their own representatives.
 Everyone can spectate the communal council meetings and the meetings of the union of communes.
 
 Regularly organising meetings with the district and its representatives is strongly advised.
+
+*PhirosWolf's note*:
+> I think this section will be rewritten often because of its complexity (votings, representatives, ...).
 
 ### Justice
 
@@ -204,11 +212,70 @@ This is why this version of this document is not precise about every case (for e
 
 When talking about majority in voting and writing `(50% + 1)` next to it, it means 50% of the concerned community plus one vote is necessary to define it as the majority.
 
+### Associations
+
+In Akyanet, the freedom of association is fully guaranteed.
+To put simply, the freedom of association is the right to associate (form groups) with other people.
+Here is the definition of the [Wiktionary](https://en.wiktionary.org/wiki/freedom_of_association):
+> The right of citizens to come together with other individuals and collectively express, promote, pursue and defend common interests.
+
+Associations can be pretty useful in Akyanet because they can bring together people with the same interests such as, for example, programming, drawing, and much more.
+
+Everyone can create an association at any time.
+
+An association is dissolved when it has zero members left.
+
+An association can be a group of people sharing one or multiple common goals, but it could also be similar to a community, where new members can talk with more experienced members relative to the community's topic.
+
+As for districts, you are free to leave an association whenever you want.
+
+### Work
+
+In Akyanet, the 20 hours week will be established (4h per day for 5 days).
+You are free to organise your work days, like, instead of 4 hours per day for 5 days, you could do 8h per day for 2 days followed by 4 hours of work the next day.
+
+"Work" consist of doing essential tasks and/or tasks related to your profession.
+
+For instance, you might be a mason and you are part of the association for masonry.
+In this case, your work will perhaps be to build the foundations of a new home or to discuss with the association about how the homes could be improved.
+
+In case you are not part of an association, you could either join one, work for communes or individuals, or work for yourself and then give the product of your work to the community.
+
+The production must match the demand of the given product.
+If the production is greater than the demand, we have to make sure that it does not impact ecology directly (e.g. CO2 emissions) or indirectly (e.g. higher power consumption may emit more CO2 because of the power plant's CO2 emissions) or impact social relationships etc.
+Therefore, if the impact is non-existent or positive (positive as in "positive for the ecology" not "an impact greater than zero"), then overproduction is authorized but not necessarily advised (in case of non-existent impact).
+This means that, before overproducing, the concerned associations and workers must really think about if it is really necessary.
+
+In case the production is not sufficient to cover demand, we have multiple solutions:
+- Lower the demand by finding an alternative product.
+- Increase the production by asking district, communes, or unions of communes to help in creating more means of production, improving the production process, or finding workers interested in working full time or part time in this field of production (without using coercive forces, as always).
+- Using external sources to compensate the difference between production and demand. (This solution should be avoided to improve autonomy.)
+
+The work week could be shortened if the production is sufficient.
+
+The rest of the week is dedicated to leisure, we will talk about that later.
+
+### Contracts
+
+### Gifts
+
+### Leisure
+
+### Vacations
+
+### Joining and leaving Akyanet
+
+## Notes
+
 ## Resources
 
 ### Images
 
 - [Akyanet flag](./assets/images/akyanet-logo.svg)
+
+### Documents
+
+- [An Anarchist FAQ (`anarchism` package)](https://aur.archlinux.org/packages/anarchism/)
 
 ### Videos
 
