@@ -376,7 +376,7 @@ All militias are in charge of promoting peace, not war.
 *PhirosWolf's note*:
 > I strongly insist on this point: peace is precious.
 > So DO NOT spoil it stupidly.
-> I don't want Akyanet to have blood in its hands.
+> I don't want Akyanet to have blood on its hands.
 
 #### Health
 
