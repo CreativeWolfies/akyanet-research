@@ -325,6 +325,76 @@ But you must remember that working is vital for the community.
 
 If you are part of one or multiple associations, you will, maybe, have to find a common ground with your coworkers to organize your work and when you will take off days.
 
+### Emergency Response Teams (ERTs)
+
+Emergency response teams are groups of people in charge of emergencies (fires, violence, health emergencies).
+Their role is to guarantee the security of the community and its well-being.
+
+Since they have such an important role, they can ask for essential tasks exemption so that they can react quickly in case of an emergency.
+
+This kind of teams can only be organized by a commune or an union of commmunes.
+
+These teams are fully autonomous.
+But in the case of militias, the use of their firearms should be closely monitored.
+
+The composition of these teams are based on voluntary service.
+
+ERTs equipment is given by Akyanet (the organizer entity if they have enough equipment, or other Akyanet entities (districts, communes, unions of communes, associations)).
+
+These teams are not limited to the borders of its organizer entity.
+They could even help people outside Akyanet.
+
+#### Fire
+
+The role of the emergency response teams for fire, or ERTsF in short, is to prevent uncontrollable fires and to estinguish them.
+
+#### Militias
+
+The role of the militias is to protect people from violent people.
+
+We can distinguish multiple types of militias:
+
+Name | Are in charge of... | Have access to...
+-----|---------------------|------------------
+Border militias | Protecting Akyanet borders if and only if the contry sharing the border is threatening military intervention or any other violent and/or armed conflict/intervention | Heavy protection, heavy weapons, fire arms, non-lethal weapons
+Emergency response teams for extreme violence (ERTsEV) | Protecting people from an extremely violent group or from extremely violent individuals | Heavy protection, fire arms and non-lethal weapons
+Emergency response teams for violence (ERTsV) | Protecting people from violent groups and violent individuals | Classical protection, non-lethal weapons and, in some cases, fire arms and heavy protection
+
+Every militia that have access to lethal weapons must be closely monitored so that they do not use these weapons against themselves or against non-threatening people.
+If a milita uses their lethal weapons against non-threatening people, ERTsEV or members of border militias will be sent to retrive the lethal weapons.
+
+Border militias and ERTsEV have the right to kill.
+**This right must only be used if any other non-lethal solution cannot be used at all**.
+
+All militias must respect all Geneva Conventions and all of its additional protocols.
+And since militias are autonomous, they could agree on additional rules.
+
+**Peace is precious**, so border militias must not shoot first, not provoke, etc.
+Peace measures must be strictly applied.
+All militias are in charge of promoting peace, not war.
+
+*PhirosWolf's note*:
+> I strongly insist on this point: peace is precious.
+> So DO NOT spoil it stupidly.
+> I don't want Akyanet to have blood in its hands.
+
+#### Health
+
+The role of the emergency response teams for health (ERTsH) is to help people who are in life-threatening health emergencies or to help people who need medical care quickly.
+
+As for militias, there is multiple types or ERTsH (nurses, paramedics, ...), but each ERTH is in charge of organizing these groups.
+
+### Postal services
+
+Postal services in Akyanet will be guaranteed by voluntaries.
+
+We could imagine a system with an online register that could create the path of the parcels/letters.
+Every voluntary which are part of the given route will give the parcels and/or letters to the next node of the route by his own means.
+
+### Education
+
+### Medias
+
 ### Joining and leaving Akyanet
 
 ### Akyanet ID card
@@ -334,6 +404,8 @@ If you are part of one or multiple associations, you will, maybe, have to find a
 ### Family
 
 ### Religion
+
+### Borders
 
 ## Notes
 
