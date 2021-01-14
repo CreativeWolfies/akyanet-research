@@ -1,6 +1,6 @@
-<img src="/assets/images/akyanet-logo.svg" alt="Akyanet logo" width="500" height="300" />
+<p align="center"><img src="/assets/images/akyanet-logo.svg" alt="Akyanet logo" width="500" height="300" /></p>
 
-# Akyanet documentation
+<h1 align="center">Akyanet documentation</h1>
 
 -----
 
@@ -234,7 +234,12 @@ As for districts, you are free to leave an association whenever you want.
 In Akyanet, the 20 hours week will be established (4h per day for 5 days).
 You are free to organise your work days, like, instead of 4 hours per day for 5 days, you could do 8h per day for 2 days followed by 4 hours of work the next day.
 
+In some cases, the work week can be longer.
+For instance, emergency response teams will have longer work weeks.
+But, in compensation, they can be exempted from essential tasks if they want to.
+
 "Work" consist of doing essential tasks and/or tasks related to your profession.
+Education is also considered as work.
 
 For instance, you might be a mason and you are part of the association for masonry.
 In this case, your work will perhaps be to build the foundations of a new home or to discuss with the association about how the homes could be improved.
@@ -253,17 +258,82 @@ In case the production is not sufficient to cover demand, we have multiple solut
 
 The work week could be shortened if the production is sufficient.
 
+If you are between 14 and 18 years old, you have the right to work and do essential tasks but only on a voluntary basis.
+Forcing someone under 18 years old is strictly prohibited because it is considered as child labour.
+
 The rest of the week is dedicated to leisure, we will talk about that later.
 
-### Contracts
+### Agreements
+
+An agreement could be thought as a contract, but without the state policing behind it.
+
+In an agreement, you state the parties of the contract, the current date, and what each parties want from the other parties.
+Then, the parties to the agreement can sign it and distribute a copy to each parties for extra verifiability.
+This could also be done by creating the agreement online (on the Akyanet website).
+
+Agreements should not be the main to exchange services.
+They are just tools for long-term services or just to keep track of what services you have to do.
+
+Members of Akyanet must understand that trust is fundamental.
+
+Changing or revoking an agreement after concluding it is possible if all the involved parties consent to it.
+
+If a member is found to abuse the trust of others, social workers or workers in the domain of psychology and/or medicine will take his case.
+In extreme forms of abuse, the justice system will take his case.
 
 ### Gifts
 
+If you have a product which is not useful for you anymore or because you produced it with a view to offering it as a gift, you can give it to an individual, an association, and any other entities within Akyanet (districts, communes, ...).
+
+The website of Akyanet will also provide a way of gifting via an online and/or real-life [give-away shop](https://en.wikipedia.org/wiki/Give-away_shop).
+This online give-away shop will have some rules to prevent people from acquiring all at the same time.
+
+Here are some ideas for these rules:
+- Random selection for products with insufficient quantities.
+- Queued limited wish lists (the one which waited the most for a product gets it first. The wish list has a limited number of products you can wait for).
+- "First come, first served".
+
+Maybe there can be multiple online or real-life give-away shops.
+
 ### Leisure
 
-### Vacations
+With the 20 hours work week, leisure will take a bigger place in life.
+If your passion is art, then you will be able to experiment with your style of art, discuss and cooperate with members of associations for art.
+Leisure is vital for individual development so that you can understand more about yourself, your environment, and how you could contribute to the society.
+
+Unfortunately, the capitalist society is a place where leisure is considered as useless or a mean of exploitation.
+When considered as useless, your work time will overflow on your only free time, the week-end.
+When considered as a mean of exploitation, you will be employed for your passion so that they can profit from your voluntary, forced, or secretly forced ([Crunch culture](https://en.wikipedia.org/wiki/Video_game_developer#Crunch_time)) overtime.
+
+As Pyotr Kropotkin said,
+> After bread has been secured, leisure is the supreme aim.
+
+### Holidays
+
+Since a lot of holidays are related to religious events, they indirectly indoctrinate children because the children parents will probably have to remind, every time these holidays occur, the origin of this holiday.
+
+This is why these holidays will be abolished and replaced by new holidays.
+
+These new holidays will be related to historical event including, but not limited to, general strikes, important anarcho-communist events, days where significant progress in science has been made, etc.
+
+Holidays will become fully indicative.
+This means that you will not be automatically exempted from your work and your essential tasks.
+Some holidays will still require essential tasks to be done, while others will not.
+
+If you want to take off days for these holidays or for other occasions, you are free to do so.
+But you must remember that working is vital for the community.
+
+If you are part of one or multiple associations, you will, maybe, have to find a common ground with your coworkers to organize your work and when you will take off days.
 
 ### Joining and leaving Akyanet
+
+### Akyanet ID card
+
+## About
+
+### Family
+
+### Religion
 
 ## Notes
 
