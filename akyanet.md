@@ -227,6 +227,9 @@ An association is dissolved when it has zero members left.
 
 An association can be a group of people sharing one or multiple common goals, but it could also be similar to a community, where new members can talk with more experienced members relative to the community's topic.
 
+You can join and leave an association as you like.
+You can even join multiple associations.
+
 As for districts, you are free to leave an association whenever you want.
 
 ### Work
@@ -260,6 +263,7 @@ The work week could be shortened if the production is sufficient.
 
 If you are between 14 and 18 years old, you have the right to work and do essential tasks but only on a voluntary basis.
 Forcing someone under 18 years old is strictly prohibited because it is considered as child labour.
+The only exception is education.
 
 The rest of the week is dedicated to leisure, we will talk about that later.
 
@@ -344,9 +348,15 @@ ERTs equipment is given by Akyanet (the organizer entity if they have enough equ
 These teams are not limited to the borders of its organizer entity.
 They could even help people outside Akyanet.
 
+Since ERTs are autonomous, they can choose how they organize themselves, for instance, by creating a pseudo-hierarchy (choosing democratically the one to give orders etc.).
+
+As for hierarchies, this pseudo-hierarchy must be justifiable.
+
 #### Fire
 
 The role of the emergency response teams for fire, or ERTsF in short, is to prevent uncontrollable fires and to estinguish them.
+
+As for militias, there is multiple types of ERTsF, but each ERTF is in charge of organizing these groups.
 
 #### Militias
 
@@ -382,7 +392,14 @@ All militias are in charge of promoting peace, not war.
 
 The role of the emergency response teams for health (ERTsH) is to help people who are in life-threatening health emergencies or to help people who need medical care quickly.
 
-As for militias, there is multiple types or ERTsH (nurses, paramedics, ...), but each ERTH is in charge of organizing these groups.
+As for militias, there is multiple types of ERTsH (nurses, paramedics, ...), but each ERTH is in charge of organizing these groups.
+
+#### Civil protection
+
+The role of the emergency response teams for civil protection (ERTsCP) is to help people in case of a disaster.
+This help can take many forms such as helping them to move to shelter.
+
+As for militias, there is multiple types of ERTsCP, but each ERTCP is in charge of organizing these groups.
 
 ### Postal services
 
@@ -393,7 +410,80 @@ Every voluntary which are part of the given route will give the parcels and/or l
 
 ### Education
 
+In Akyanet, education is free and studying is considered as work.
+
+We can distinguish two phases of education: Compulsory education (from 5/6 years old to 15/16 years old) and higher education.
+
+It is strongly advised that children from 5/6 years old to 15/16 years old go to school so that they can have a basic knowledge in multiple domains.
+
+If one child needs home schooling (because he asked to or the social workers noticed it), then the parents will be asked if they can and want to teach their child or if they need someone that can do this work.
+
+In case the parents teach to their child, the parents will received lessons about how to teach to children.
+
+Another alternative for home schooling is online teaching.
+
+In our current society, compulsory education aims at teaching basic knowledge the same way for everyone.
+This is wrong (see [this video](https://youtu.be/dqTTojTija8) to better understand why).
+
+Education should teach basic knowledge to everyone but the teaching method can be different from one person to another.
+
+We should stop making overcrowded classes.
+
+If a child or an adult has facilities with his education, he can get along with his teachers to ask them if he can skip a grade.
+
+Exams should be removed except in one case: if the courses you take are related to a risky work field (doctor of medicine, train conductor, nuclear power plant operator, etc.) or a work field needing long education (doctors, etc.).
+In this case, an exam can be organized at the end of each year, at the end of your courses, or before major events (e.g. Passing an exam to know if you are able to operate research nuclear reactors).
+Certificates can be given to students after their final exam.
+
+Entrance exams and prerequisite certificates limitations are tolerated if they are justifiable.
+
+Schools should stop putting limitations (like minimum age) on entrance exams.
+
+Schools do not necessarily need to be ran by professional teachers.
+These kinds of teachers is a great way to expend the fields covered by education.
+This means domains considered as hobbies in our current society (e.g. cosplaying) could be covered by a real and free education and will finally be recognized as a real work.
+Basically, the same features as [folk high school](https://en.wikipedia.org/wiki/Folk_high_school#Features).
+
+*PhirosWolf's note*:
+> The system I aim is an education where everyone could learn what he wants and with meaningful explanations and exercises.
+
+### Public transports
+
+Public transports are organized by associations.
+
+Most of the conductors/pilots will have to be certificated in order to reduce the risk of accidents.
+
+Public transports are really important if we want to progress towards zero carbon footprint.
+
+### Public facilities
+
+Public facilities are places dedicated to accomplish a given task.
+
+For example, general use halls, public workbenches (tools exchange), etc. are public facilities.
+
+Some of them, like the general use halls, can be reserved by individuals or by groups for certain dates.
+
 ### Medias
+
+[Freedom of the press](https://en.wikipedia.org/wiki/Freedom_of_the_press), [freedom of speech](https://en.wikipedia.org/wiki/Freedom_of_speech), and [freedom of information](https://en.wikipedia.org/wiki/Freedom_of_information) will be guaranteed.
+
+[Fact-checking](https://en.wikipedia.org/wiki/Fact-checking) is important.
+All medias will be strongly advised to add a kind of fact-checking score on each article / each news so that people can quickly see the veracity of the article/news to prevent [media manipulation](https://en.wikipedia.org/wiki/Media_manipulation).
+This fact-checking score can be determined by computing the average of the scores given by fact-checking associations.
+
+To create a media, you just need to create an association for it.
+
+### Housing
+
+Appropriate housing should be given to everyone.
+
+The best would be to have common rooms (kitchen, toilets, living room) and 1 personal room per person.
+
+"But what about the luxury houses?" you might ask.
+Well, for now, housing will depend on the houses inside your district.
+But I (PhirosWolf) am aware that this is not a good solution, so we should find a fairer solution.
+
+Maintenance of the houses and apartments are done by their occupants or by specialized people in cases of serious damages/problems.
 
 ### Joining and leaving Akyanet
 
@@ -403,7 +493,7 @@ Every voluntary which are part of the given route will give the parcels and/or l
 
 ### Family
 
-### Religion
+### Religion and secularism
 
 ### Borders
 
