@@ -578,17 +578,51 @@ If the only goal of these spies is to gather information about Akyanet, they wil
 But spies' goals are not limited to gathering information.
 If they come from a threatening nation, maybe their goals will be to cause panic and confusion, or infiltrate militias to provoke immoral actions in the name of Akyanet to let their home nation to declare war to Akyanet.
 
-This problem must be fixed by Akyanet when this will become a real problem. 
-
-### Cybercriminality
+This problem must be fixed by Akyanet when this will become a real problem.
 
 ### Advertising
 
-### Akyanet flag
+Advertising will not exist since everyone is able to get products from associations at their right value.
+
+Advertising comes with competition, the opposite of cooperation, therefore, the opposite of Akyanet.
 
 ### Akyanet development
 
+Akyanet will evolve with its population.
+
+We can divide the development of Akyanet in multiple phases:
+
+1. Akyanet will have few members and most of the members' needs cannot be fulfilled by Akyanet. Joining Akyanet will require the approval of the founders or people assigned to this task.
+2. Akyanet will still have few members, but more than before. Some of the members' needs can be fulfilled by Akyanet. Joining Akyanet will still require the approval of the founders or people assigned to this task, but the entry criteria will accept more people into Akyanet.
+3. Akyanet will begin to have districts, thus more members. More of the members' needs can be fulfilled by Akyanet. The entry criteria will accept even more people in.
+4. Akyanet will begin to have communes, thus more members. More of the members' needs can be fulfilled by Akyanet. The entry criteria will accept almost all people in.
+5. Akyanet will begin to have more communes, maybe unions of communes. Essential needs can be fulfilled by Akyanet. The entry criteria will accept almost all people in.
+6. Akyanet can fulfill basic needs for everyone. The entry criteria will be removed.
+7. Akyanet can fulfill more needs for everyone.
+8. Akyanet can fulfill almost all needs for everyone.
+9. Akyanet can fulfill all needs for everyone.
+10. Akyanet can fulfill all needs for everyone and Akyanet will be able to fulfill some needs for non-members.
+
+Note that none of these phases mention a territory.
+
+### Akyanet flag
+
+The Akyanet flag (see Resources > Images) is a red and black flag (anarcho-communist flag) in the background with the Akyanet logo on top of it.
+
 ## Notes
+
+### From PhirosWolf
+
+First, in this document, if you read "I" without specification about who is "I", it means it is me, PhirosWolf.
+
+Then, I would like to say that I'm not a professional in the anarcho-communist theory and I know this document lacks the application of some principles, but I just don't know how to apply them.
+But all I want to do is helping making the world a better place.
+This is why this document is open-source and everyone can contribute to Akyanet.
+
+For example, in the chapter on politics, the representative system can be problematic and the idea of the Global Coordinator is maybe wrong, but I don't know, for now, how to fix it.
+So if you have any suggestions or any ideas about how we could create a better system, you can create a pull request, you can direct-message me, you can create an issue on the repository, or you can create a fork of this repository.
+
+Anyway, I hope this whole document and the future Akyanet website will help making things move.
 
 ## Resources
 
