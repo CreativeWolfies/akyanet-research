@@ -481,21 +481,112 @@ The best would be to have common rooms (kitchen, toilets, living room) and 1 per
 
 "But what about the luxury houses?" you might ask.
 Well, for now, housing will depend on the houses inside your district.
-But I (PhirosWolf) am aware that this is not a good solution, so we should find a fairer solution.
+But I am aware that this is not a good solution, so we should find a fairer solution.
 
 Maintenance of the houses and apartments are done by their occupants or by specialized people in cases of serious damages/problems.
 
 ### Joining and leaving Akyanet
 
-### Akyanet ID card
+Depending on the phase Akyanet is currently in, you can join Akyanet by various means.
+
+One of the easiest is via the Akyanet website.
+Later, Akyanet you will be able to join Akyanet by mail.
+
+When joining, you will need to fill a registration form for the creation of your Akyanet ID Card and for your online Akyanet account.
+
+If you want to leave Akyanet, you can do so by the same means available for joining (online or, later, by mail).
+By doing so, your Akyanet ID Card will be revoked and your online Akyanet account will be deleted.
+Before leaving, you might want to organize with the associations you joined and with the people you concluded agreements with.
+
+To prevent abuse when creating agreements, they are advised to check the seniority of the parties they are concluding the agreement with.
+
+### Akyanet ID Card
+
+The Akyanet ID Card is a card containing information about yourself to "prove" to people outside Akyanet that you are a member of Akyanet.
+
+Here is a list of the pieces of information the Akyanet ID Card might contain:
+- Name (The one you choose to have in Akyanet, not necessarily your real name)
+- Date of birth
+- Registration date
+- [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)
+- Profile picture (optional)
+- Signature
+
+The name, profile picture, and signature can be changed at any time.
 
 ## About
 
 ### Family
 
-### Religion and secularism
+Parents need to understand that their children are not their property even though they are responsible for their actions until they are considered as adults (18 years old).
+This means that parents need to cooperate with their children, not limiting their children with their (parents) sets of ideas.
+
+I can understand that parents seek to protect their children against bad influence, but by doing so, some of them end up protecting them against good things without knowing it or without acknowledging it.
+
+I am not saying that parents should let their children do anything they want, I am just saying that they should find the right balance between protection and laissez-faire.
+
+If children have problems with their parents or the other way around, social workers are here to help.
+
+### Religion
+
+Freedom of religion is guaranteed within Akyanet, but I think that religion has a bad influence over people by instilling them a fixed way to think and/or to analyze situations.
+
+A majority of religions are, by their holy books, against the most foundamental anarcho-communist ideas, such as liberty and equality.
+
+As an example, in the Bible, we can read this:
+> [...] Because **the Israelites are my servants** (1), whom I brought out of Egypt, they must not be sold as slaves.
+> Do not rule over them ruthlessly, but **fear your God** (2).
+> **Your male and female slaves are to come from the nations around you; from them you may buy slaves** (3).
+> **You may also buy some of the temporary residents living among you and members of their clans born in your country, and they will become your property** (4).
+> **You can bequeath them to your children as inherited property and can make them slaves for life** (5), but **you must not rule over your fellow Israelites ruthlessly** (6).
+> If a foreigner residing among you becomes rich and any of your fellow Israelites become poor and sell themselves to the foreigner or to a member of the foreigner’s clan, they retain the right of redemption after they have sold themselves. [...]
+
+1. Hierarchy.
+2. Hierarchy and fear of the upper class.
+3. Slavery.
+4. Slavery.
+5. Slavery.
+6. Discrimination, therefore, infringing equality.
+
+This quote is said by God himself at Leviticus 25:42-48 and the phrasing is from the New International Version of the Bible found on [biblestudytools.com](https://www.biblestudytools.com/).
+This is just an example.
+Other holy books and scriptures contain similar infringements of liberty and equality.
+
+Theists and deists should not let their faith influence their decision-making process to prevent [magical thinking](https://en.wikipedia.org/wiki/Magical_thinking) and to promote [rational thinking](https://en.wikipedia.org/wiki/Rationality).
+I know that it will be difficult for them to against their faith in some cases, and for some of them, it will be impossible.
+But it is vital for them to understand why rationality is more important than their religion.
+
+In Akyanet territory, parishes, churches, cathedrals, and all other religious buildings will become public facilities.
+Theists and deists can still use these places if they find common ground with other people wanting to use these places.
+
+In Akyanet, religious indoctrination should be avoided.
 
 ### Borders
+
+Borders within Akyanet are defined by Akyanet entities (districts, communes, unions of communes).
+These borders are **only** for administrative purposes, not for creating rivalities between members of Akyanet entities.
+
+[Freedom of movement](https://en.wikipedia.org/wiki/Freedom_of_movement) is guaranteed between inside borders.
+
+Borders between Akyanet and other nations should, as far as possible, remain open.
+
+In the case of dangerous borders (where the neighboring nation is threatening Akyanet), people can still cross the border if they come without the intent of doing harm to other people.
+In some cases, dangerous borders can be closed if closing the border is the best solution for everyone even if it is not recommended.
+
+One of the disadvantages of having open borders is that spies can come and go as they like in Akyanet.
+If the only goal of these spies is to gather information about Akyanet, they will be disappointed since the freedom of information is guaranteed, therefore, all pieces of information about Akyanet actions are open.
+But spies' goals are not limited to gathering information.
+If they come from a threatening nation, maybe their goals will be to cause panic and confusion, or infiltrate militias to provoke immoral actions in the name of Akyanet to let their home nation to declare war to Akyanet.
+
+This problem must be fixed by Akyanet when this will become a real problem. 
+
+### Cybercriminality
+
+### Advertising
+
+### Akyanet flag
+
+### Akyanet development
 
 ## Notes
 
