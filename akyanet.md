@@ -4,6 +4,57 @@
 
 -----
 
+## Table of contents
+
+- [Introduction](#introduction)
+- [Our world and our society](#our-world-and-our-society)
+- - [What's wrong?](#whats-wrong)
+- - [I'm fine with this system, so why change it?](#im-fine-with-this-system-so-why-change-it)
+- [What is Akyanet?](#what-is-akyanet)
+- [The goals of Akyanet](#the-goals-of-akyanet)
+- [How Akyanet works](#how-akyanet-works)
+- - [Districts, communes, and unions of communes](#districts-communes-and-unions-of-communes)
+- - [Joining a district, leaving a district, and the social contract](#joining-a-district-leaving-a-district-and-the-social-contract)
+- - [Essential tasks](#essential-tasks)
+- - [Politics](#politics)
+- - [Justice](#justice)
+- - [Global Coordinator](#global-coordinator)
+- - [Voting](#voting)
+- - [Associations](#associations)
+- - [Work](#work)
+- - [Agreements](#agreements)
+- - [Gifts](#gifts)
+- - [Leisure](#leisure)
+- - [Holidays](#holidays)
+- - [Emergency Response Teams (ERTs)](#emergency-response-teams-erts)
+- - - [Fire](#fire)
+- - - [Militias](#militias)
+- - - [Health](#health)
+- - - [Civil protection](#civil-protection)
+- - [Postal services](#postal-services)
+- - [Education](#education)
+- - [Public transports](#public-transports)
+- - [Public facilities](#public-facilities)
+- - [Medias](#medias)
+- - [Housing](#housing)
+- - [Joining and leaving Akyanet](#joining-and-leaving-akyanet)
+- - [Akyanet ID Card](#akyanet-id-card)
+- [About](#about)
+- - [Family](#family)
+- - [Religion](#religion)
+- - [Borders](#borders)
+- - [Advertising](#advertising)
+- - [Akyanet development](#akyanet-development)
+- - [Akyanet flag](#akyanet-flag)
+- [Notes](#notes)
+- - [From PhirosWolf](#from-phiroswolf)
+- [Resources](#resources)
+- - [Images](#images)
+- - [Documents](#documents)
+- - [Videos](#videos)
+
+-----
+
 ## Introduction
 
 The purpose of Akyanet is to be a better society and an accessible one.
@@ -96,7 +147,7 @@ Ecology must be a priority. Unsustainable energy must be prohibited except for r
 
 In this chapter, we will talk about how Akyanet is organized. But keep in mind that it could evolve over time if the members democratically decide to change the organisation.
 
-### Districts, communes, and union of communes
+### Districts, communes, and unions of communes
 
 Let us begin by districts.
 A district is a group of 150 people maximum to prevent social isolation.
@@ -110,7 +161,7 @@ Unions of communes are... unions of communes, obviously.
 As for the communes, it is preferable that they are geographicaly near one another.
 Unions of communes are not limited in population.
 
-### Joining a district, Leaving a district, and the social contract
+### Joining a district, leaving a district, and the social contract
 
 You can join a district whenever you want.
 There are no prerequisites for joining a district.
