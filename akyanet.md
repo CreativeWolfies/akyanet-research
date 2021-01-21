@@ -44,6 +44,8 @@
 - - [Religion](#religion)
 - - [Borders](#borders)
 - - [Advertising](#advertising)
+- - [Marriage and relationships](#marriage-and-relationships)
+- - [Gender, gender identity, and sexuality](#gender-gender-identity-and-sexuality)
 - - [Akyanet development](#akyanet-development)
 - - [Akyanet flag](#akyanet-flag)
 - [Notes](#notes)
@@ -636,6 +638,32 @@ This problem must be fixed by Akyanet when this will become a real problem.
 Advertising will not exist since everyone is able to get products from associations at their right value.
 
 Advertising comes with competition, the opposite of cooperation, therefore, the opposite of Akyanet.
+
+### Marriage and relationships
+
+Marriage will be abolished because, in our current society, it is only a way to apply new rules over two people such as taxes.
+Marriage is also a source of discrimination by its religious origin.
+
+Instead, every individual must be free to choose with whom he wants to unite.
+This kind of relationship needs the consent of each party.
+
+Obviously, you cannot create a relationship with a minor (child) under 16.
+Parties thinking about creating a relationship with a high age difference are advised to think carefully about it.
+
+Since you are free to form the relationships you want, [Polyamory](https://en.wikipedia.org/wiki/Polyamory) is implicitly authorized, but every partner should be informed of the other relations and must consent to it.
+
+### Gender, gender identity, and sexuality
+
+There is no such thing as "man" and "woman".
+These terms are [social constructions](https://en.wikipedia.org/wiki/Social_constructionism), which means that this notion of "man" and "woman" is a norm induced by our current society.
+
+These terms are problematic because, in the first place, do you give the term "man" or "woman" to an intersex person? (if you apply these terms in terms of their sex). And what about people who do not feel like a man or woman? (if you appy these terms in terms of their feelings).
+This is why the Akyanet ID Card does not contain your gender.
+
+You are free to choose your gender identity and your sexuality, since it is something  completely personnal.
+
+But as everything, use your common sense.
+Therefore, pedophilia, zoophilia, etc., are not allowed since it cannot guarantee a pure consensus between parties.
 
 ### Akyanet development
 
