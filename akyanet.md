@@ -54,6 +54,8 @@
 - - [Images](#images)
 - - [Documents](#documents)
 - - [Videos](#videos)
+- - [Links used in this document](#links-used-in-this-document)
+- [Thanks](#thanks)
 
 -----
 
@@ -567,6 +569,9 @@ Here is a list of the pieces of information the Akyanet ID Card might contain:
 
 The name, profile picture, and signature can be changed at any time.
 
+The profile picture could be your real face, a drawing, a picture, or anything you want.
+You just have to avoid using pictures that could harm people.
+
 ## About
 
 ### Family
@@ -650,7 +655,7 @@ This kind of relationship needs the consent of each party.
 Obviously, you cannot create a relationship with a minor (child) under 16.
 Parties thinking about creating a relationship with a high age difference are advised to think carefully about it.
 
-Since you are free to form the relationships you want, [Polyamory](https://en.wikipedia.org/wiki/Polyamory) is implicitly authorized, but every partner should be informed of the other relations and must consent to it.
+Since you are free to form the relationships you want, [polyamorous relationships](https://en.wikipedia.org/wiki/Polyamory) are implicitly authorized, but every partner should be informed of the other relations and must consent to it.
 
 ### Gender, gender identity, and sexuality
 
@@ -664,6 +669,9 @@ You are free to choose your gender identity and your sexuality, since it is some
 
 But as everything, use your common sense.
 Therefore, pedophilia, zoophilia, etc., are not allowed since it cannot guarantee a pure consensus between parties.
+
+Since the terms "man" and "woman" are obsolete, "mister", "miss", "sir", "ma'am", ..., are also obsolete.
+Instead, it is recommended to use a neutral title like "comrade".
 
 ### Akyanet development
 
@@ -701,6 +709,8 @@ This is why this document is open-source and everyone can contribute to Akyanet.
 For example, in the chapter on politics, the representative system can be problematic and the idea of the Global Coordinator is maybe wrong, but I don't know, for now, how to fix it.
 So if you have any suggestions or any ideas about how we could create a better system, you can create a pull request, you can direct-message me, you can create an issue on the repository, or you can create a fork of this repository.
 
+When I write "competition", I mean the competition like competition between markets and companies, not competition of biological evoluation or sportive competition.
+
 Anyway, I hope this whole document and the future Akyanet website will help making things move.
 
 ## Resources
@@ -712,7 +722,44 @@ Anyway, I hope this whole document and the future Akyanet website will help maki
 ### Documents
 
 - [An Anarchist FAQ (`anarchism` package)](https://aur.archlinux.org/packages/anarchism/)
+- [The Conquest of Bread by Pyotr Kropotkin](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread.pdf)
 
 ### Videos
 
 - [NonCompete's video series "How Anarchism Works"](https://www.youtube.com/watch?v=ZzEl5RIMp7M&list=PLCcemL_x8RtdtFuib1Wl6VwyuYOEDb5Wv&index=1)
+- [NonCompete's YouTube channel](https://www.youtube.com/channel/UCkZFKKK-0YB0FvwoS8P7nHg)
+- [Thought Slime's YouTube channel](https://www.youtube.com/channel/UCrr7y8rEXb7_RiVniwvzk9w)
+- [TheraminTrees' YouTube channel](https://www.youtube.com/user/TheraminTrees)
+
+### Links used in this document
+
+- [https://en.wikipedia.org/wiki/Communism](https://en.wikipedia.org/wiki/Communism). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/McCarthyism](https://en.wikipedia.org/wiki/McCarthyism). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Anarchism](https://en.wikipedia.org/wiki/Anarchism). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wiktionary.org/wiki/anomie](https://en.wiktionary.org/wiki/anomie). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Schulze_STV](https://en.wikipedia.org/wiki/Schulze_STV). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wiktionary.org/wiki/freedom_of_association](https://en.wiktionary.org/wiki/freedom_of_association). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Give-away_shop](https://en.wikipedia.org/wiki/Give-away_shop). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Video_game_developer#Crunch_time](https://en.wikipedia.org/wiki/Video_game_developer#Crunch_time). Retrieved 14:00 CET, January 21, 2021.
+- [https://youtu.be/dqTTojTija8](https://youtu.be/dqTTojTija8)
+- [https://en.wikipedia.org/wiki/Folk_high_school#Features](https://en.wikipedia.org/wiki/Folk_high_school#Features). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Freedom_of_the_press](https://en.wikipedia.org/wiki/Freedom_of_the_press). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Freedom_of_speech](https://en.wikipedia.org/wiki/Freedom_of_speech). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Freedom_of_information](https://en.wikipedia.org/wiki/Freedom_of_information). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Fact-checking](https://en.wikipedia.org/wiki/Fact-checking). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Media_manipulation](https://en.wikipedia.org/wiki/Media_manipulation). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Universally_unique_identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier). Retrieved 14:00 CET, January 21, 2021.
+- [https://www.biblestudytools.com/](https://www.biblestudytools.com/)
+- [https://en.wikipedia.org/wiki/Magical_thinking](https://en.wikipedia.org/wiki/Magical_thinking). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Rationality](https://en.wikipedia.org/wiki/Rationality). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Freedom_of_movement](https://en.wikipedia.org/wiki/Freedom_of_movement). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Polyamory](https://en.wikipedia.org/wiki/Polyamory). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Social_constructionism](https://en.wikipedia.org/wiki/Social_constructionism). Retrieved 14:00 CET, January 21, 2021.
+
+## Thanks
+
+- [PhirosWolf](https://github.com/PhirosWolf), for creating and writing this document.
+- Tristan Gerber, for debating about this document.
+- Arthur Menetrey, for debating about this document.
+- Jonathan Letourneur, for debating about this document.
+- [Shad Amethyst](https://github.com/adri326/), for debating about this document.
