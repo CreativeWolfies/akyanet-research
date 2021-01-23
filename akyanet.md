@@ -62,7 +62,7 @@
 ## Introduction
 
 The purpose of Akyanet is to be a better society and an accessible one.
-This will never be a perfect society because it does not exist.
+This will never be a perfect society because that does not exist.
 But we can try to go as close as possible to this utopia.
 
 -----
@@ -80,7 +80,7 @@ Corruption exists mainly because of money.
 
 Money is not the only problem.
 There is also weapons of mass destruction, war, unfair justice, lack of equality, etc.
-We live in a world where the rich get richer, the poor get poorer, and the middle class struggles to be part of the so-called "bourgeoisie" in the hope of feeling better.
+We live in a world where the rich gets richer, the poor gets poorer, and the middle class struggles to be part of the so-called "bourgeoisie" in the hope of feeling better.
 There is something wrong about this system.
 We dream of becoming rich to get the things we like.
 And to do this, our current society suggests that we must compete against others and forget the ones at the bottom because they "deserved it".
@@ -90,10 +90,10 @@ And to do this, our current society suggests that we must compete against others
 Because you are not alone in this world.
 Entire countries suffer from this system because they are enslaved by richer countries like Western Europe, China, and United States of America.
 They are not the only ones, but the main ones to abuse from other countries.
-By this I do not mean that the population of Western Europe, China, and United States of America are bad people, I just want to say that their governments and big corporations are responsible for this abuse.
+By this I do not mean that the populations of Western Europe, China, and United States of America are the culprits, I just want to say that their governments and big corporations are responsible for this abuse.
 
 The population of these wealthy countries are the mere reflection of the consumerist world we're living in today.
-Some of these people live in ignorance, some are just fully indoctrinated by their society’s propaganda, and some live in the uncomfortable position of knowing what their government and big corporations perpetrate and feeling powerless to these acts.
+Some of these people live in ignorance, some are fully indoctrinated by their society’s propaganda, and some live in the uncomfortable position of knowing what their government and big corporations perpetrate and feeling powerless to these acts.
 
 The reason of this change becomes clear when you focus on every details of our world instead of simply following orders to look at the poor countries as "barbarian countries" and "useless countries" because they "deserved it".
 
@@ -104,9 +104,9 @@ Many fear the words "communism" and "anarchism" because of their current connota
 Let us take the first word, "communism". According to [Wikipedia](https://en.wikipedia.org/wiki/Communism):
 > Communism is a philosophical, social, political and economic ideology and movement whose ultimate goal is the establishment of a communist society, namely a socioeconomic orderstructured upon **the ideas of common ownership of the means of production and the absence of social classes, money and the state.**
 
-This is pretty different from the totalitarian dictatorship many people think.
+This is pretty different from the totalitarian dictatorship many people think about when hearing that word.
 This misnamed definition perhaps originates from [McCarthyism](https://en.wikipedia.org/wiki/McCarthyism) or the global fear of communism caused by the USSR and the cold war.
-Basically, this propaganda from the past is having a long-lasting effect on the word "communism".
+In other words, this propaganda from the past is having a long-lasting effect on the word "communism".
 
 Unfortunately, this is not the only word suffering from misnaming. Let us take the case of "anarchism".
 As for the previous word, here is the definition from [Wikipedia](https://en.wikipedia.org/wiki/Anarchism):
@@ -114,14 +114,14 @@ As for the previous word, here is the definition from [Wikipedia](https://en.wik
 > Anarchism calls for the **abolition of the state, which it holds to be undesirable, unnecessary, and harmful**.
 > It is usually described alongside libertarian Marxism as the libertarian wing (libertarian socialism) of the socialist movement and as having a historical association with anti-capitalism and socialism.
 
-And the popular definition could be expressed simply by "the abolition of all rules, chaos; Confusion and disorder". But this is a confusion with [anomie](https://en.wiktionary.org/wiki/anomie). Wiktionary:
+However, the popular definition could be expressed simply by "the abolition of all rules, chaos; Confusion and disorder". But this is a common confusion between anarchism and [anomie](https://en.wiktionary.org/wiki/anomie). Wiktionary defines "anomie" as such:
 > Alienation or social instability caused by erosion of standards and values.
 
 Now that you have the correct definitions, we can define what is the purpose of Akyanet.
 
 ## The goals of Akyanet
 
-Akyanet has many goals and they will evolve over time, we are going to list a few foundamental ones.
+Akyanet has many goals and they will evolve over time, we are going to list a few fundamental ones.
 
 "Better" should no longer mean "more profitable", it should just stick to its original definition. i.e. "To surpass in excellence; to exceed; to excel.".
 In Akyanet, it could also mean improving the social welfare.
@@ -132,7 +132,7 @@ This means nobody should be oppressed, discriminated, or prevented from taking p
 Hierarchies must be prohibited **except** when they are vital.
 For example, on a ship, there must be a captain to give orders as for piloting the ship correctly.
 But the captain must be aware that he is not in a position of power.
-This means that the captain could also do some chores on the ship if it does not compromise the safety of the people on board.
+This means that the captain should also do some chores on the ship as long as it does not compromise the safety of the people on board.
 
 We must seek to achieve total autonomy within Akyanet.
 Which means that the community is able to give appropriate housing for everyone, food, electricity, running water, heating, internet, health services, etc. without external help.
@@ -142,7 +142,7 @@ Money should be abolished because it will become obsolete (we will talk about th
 
 Art should remain art. In our current capitalist society, art is worthless except if you can sell it.
 And to sell it, it must become a product and not art.
-Imagine being a talented painter that can paint magnificent landscapes but with your own style and also know how to paint with a style similar to Picasso, but you do not like painting this way.
+Imagine being a talented painter that can paint magnificent landscapes but with your own, exotic style and also know how to paint with a style similar to Picasso, but you do not like painting this way.
 Well, within the capitalist society, since your own style does not matter, you will be forced to make Picasso-like paintings because you cannot live off your own style.
 
 Ecology must be a priority. Unsustainable energy must be prohibited except for research purposes.
