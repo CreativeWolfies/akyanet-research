@@ -47,7 +47,7 @@
   - [Marriage and relationships](#marriage-and-relationships)
   - [Gender, gender identity, and sexuality](#gender-gender-identity-and-sexuality)
   - [Akyanet development](#akyanet-development)
-  - [Problems & Thoughts](#problems-thoughts)
+  - [Problems & Thoughts](#problems--thoughts)
     - [From Tristan Gerber](#from-tristan-gerber)
   - [Akyanet flag](#akyanet-flag)
 - [Notes](#notes)
