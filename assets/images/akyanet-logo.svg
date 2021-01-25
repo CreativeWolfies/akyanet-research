@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="no"?>
-<svg width="5000" height="3000" version="1.1" preserveAspectRatio="true" xmlns="http://www.w3.org/2000/svg"> <!-- 3:5 aspect ratio -->
+<svg width="5000" height="3000" version="1.1" xmlns="http://www.w3.org/2000/svg"> <!-- 3:5 aspect ratio -->
   <defs>
     <!-- Simplified Akyanet flag clip path -->
     <clipPath id="akyanet-flag-clip">
@@ -31,12 +31,12 @@
   <line x1="1300" y1="1500" x2="3700" y2="1500" fill="none" stroke="#56ccf2" stroke-width="240" clip-path="url(#akyanet-flag-clip)" />
 
   <!-- Inner symbol -->
-  <polyline points="1600 2700, 2500 300, 3400 2700" fill="none" stroke="black" stroke-width="150" clip-path="url(#akyanet-flag-clip)" /> <!-- Stroke width is 1/8th of the circle radius; the "legs" of "normal" A are positioned horizontally at 1/4th towards the circle center compared to the circle box. -->
-  <polyline points="1600 300, 2500 2700, 3400 300" fill="none" stroke="black" stroke-width="150" clip-path="url(#akyanet-flag-clip)" /> <!-- Same story -->
-  <line x1="1300" y1="1500" x2="3700" y2="1500" fill="none" stroke="black" stroke-width="150" clip-path="url(#akyanet-flag-clip)" />
+  <polyline points="1600 2700, 2500 300, 3400 2700" fill="none" stroke="#000000" stroke-width="150" clip-path="url(#akyanet-flag-clip)" /> <!-- Stroke width is 1/8th of the circle radius; the "legs" of "normal" A are positioned horizontally at 1/4th towards the circle center compared to the circle box. -->
+  <polyline points="1600 300, 2500 2700, 3400 300" fill="none" stroke="#000000" stroke-width="150" clip-path="url(#akyanet-flag-clip)" /> <!-- Same story -->
+  <line x1="1300" y1="1500" x2="3700" y2="1500" fill="none" stroke="#000000" stroke-width="150" clip-path="url(#akyanet-flag-clip)" />
 
   <!-- Circle outline -->
-  <circle cx="2500" cy="1500" r="1165" fill="none" stroke="url(#akyanet-flag-circle-outline)" stroke-width="120" clip-path="url(#akyanet-flag-clip)" /> <!-- Stroke width is 1/16th of the circle radius -->
+  <circle cx="2500" cy="1500" r="1165" fill="none" stroke="url(#akyanet-flag-circle-outline)" stroke-width="116.5" /> <!-- Stroke width is 1/10th of the circle radius -->
 
 
 </svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="9000" height="6000" version="1.1" xmlns="http://www.w3.org/2000/svg"> <!-- 6:9 aspect ratio -->
+  <defs>
+    <!-- Card clip path -->
+    <clipPath id="akyanet-card-clip">
+      <rect x="0" y="0" width="9000" height="6000" rx="500" />
+    </clipPath>
+
+    <!-- Akyanet logo circle clip path -->
+    <clipPath id="akyanet-circle-clip">
+      <circle cx="7875" cy="1125" r="875" fill="none" stroke="none" />
+    </clipPath>
+
+    <!-- Linear gradient for circle outline (Akyanet flag) -->
+    <linearGradient id="akyanet-circle-outline" gradientTransform="rotate(45)">
+      <stop offset="0%" stop-color="#3494e6" />
+      <stop offset="100%" stop-color="#ec6ead" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="9000" height="6000" rx="500" fill="#000000" stroke="none" />
+
+  <!-- Akyanet logo -->
+
+  <!-- Logo background -->
+  <circle cx="7875" cy="1125" r="875" fill="#ffffff" stroke="none" />
+
+  <!-- Symbol shadow -->
+  <!-- slope rate = 8/3 = y/x -->
+  <!-- Logo is positioned in the last 4th (4th = 2250, 4th 4th = 6750) with a padding of 250 -->
+  <!-- Logo size = 1750, 1750 -->
+  <polyline points="5718.75 6175, 7875 250, 9175 3716.666" fill="none" stroke="#56ccf2" stroke-width="175" clip-path="url(#akyanet-card-clip)" stroke-linejoin="bevel" />
+  <polyline points="7059.375 -175, 7875 2000, 9175 -1466.666" fill="none" stroke="#56ccf2" stroke-width="175" clip-path="url(#akyanet-card-clip)" stroke-linejoin="bevel" />
+  <line x1="0" y1="1125" x2="9000" y2="1125" fill="none" stroke="#56ccf2" stroke-width="175" />
+
+  <!-- Symbol -->
+  <polyline points="5718.75 6175, 7875 250, 9175 3716.666" fill="none" stroke="#000000" stroke-width="109.375" clip-path="url(#akyanet-card-clip)" stroke-linejoin="bevel" />
+  <polyline points="7059.375 -175, 7875 2000, 9175 -1466.666" fill="none" stroke="#000000" stroke-width="109.375" clip-path="url(#akyanet-card-clip)" stroke-linejoin="bevel" />
+  <line x1="0" y1="1125" x2="9000" y2="1125" fill="none" stroke="#000000" stroke-width="109.375" />
+
+  <!-- Circle -->
+  <circle cx="7875" cy="1125" r="875" fill="none" stroke="url(#akyanet-circle-outline)" stroke-width="87.5" />
+
+
+
+</svg>

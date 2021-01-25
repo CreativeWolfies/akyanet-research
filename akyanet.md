@@ -47,6 +47,8 @@
 - - [Marriage and relationships](#marriage-and-relationships)
 - - [Gender, gender identity, and sexuality](#gender-gender-identity-and-sexuality)
 - - [Akyanet development](#akyanet-development)
+- - [Problems & Thoughts](#problems-thoughts)
+- - - [From Tristan Gerber](#from-tristan-gerber)
 - - [Akyanet flag](#akyanet-flag)
 - [Notes](#notes)
 - - [From PhirosWolf](#from-phiroswolf)
@@ -198,26 +200,25 @@ If a district does not have enough people to perform all essential tasks, the di
 
 ### Politics
 
-Each district have a district council which is in charge of representing the district at the communal level.
-The representatives are elected by the district using [Schulze STV](https://en.wikipedia.org/wiki/Schulze_STV) and they have a 3 month mandate.
-Representatives can be revoked at any time if the majority (50% + 1) of the district members vote to.
+Each Akyanet entity (districts, communes, unions of communes) has a council where representatives of districts come to discuss about various subjects.
+These representatives are chosen by the concerned entites' members (e.g. districts for the commune council).
 
-The role of a representative is to represent the interests of a district and to explain to its district what the subjects were at the commune, what they will vote in the next weeks, etc.
-The representatives cannot vote on behalf of the district, instead, all the commune members will vote.
-Any subject (change in communal rules, tasks organisation, ...) is passed only if the majority (50% + 1) of the commune members vote for.
+It is up to the people to choose the way of "electing" their representatives.
+It means that a district could choose that any member who wants to be a representative can be one like other districts could choose to elect their representatives using a defined voting system (for instance, [Schulze STV](https://en.wikipedia.org/wiki/Schulze_STV)).
 
-Unions of communes works in the same way.
-But instead of electing representatives in each district, representatives will be elected in each commune by the commune members using [Schulze STV](https://en.wikipedia.org/wiki/Schulze_STV).
+The representatives can be revoked at any time by the represented if the majority (50% + 1) are for.
+The mandate duration is fixed to 3 months. (this mandate duration can evolve over time.)
 
-This means that districts cannot choose representatives if they have a population of less than 3 people.
-In this case, all the district population are their own representatives.
+The goal of these representatives is not to vote on behalf of the represented (since it does not work), but to represent the interests of the represented by debating, discussing, and arguing over multiple subjects to come with suggestions of "rules" that the represented will vote on to know whether or not they agree to the suggestion.
 
-Everyone can spectate the communal council meetings and the meetings of the union of communes.
+Discussions and debates within the councils should be accessible to everyone and thus, recorded and broadcasted accordingly.
+
+Councils are advised to debate with people concerned by the subjects that are being treated (e.g. railway workers when debating over a subject concerning railways).
 
 Regularly organising meetings with the district and its representatives is strongly advised.
 
-*PhirosWolf's note*:
-> I think this section will be rewritten often because of its complexity (votings, representatives, ...).
+Any representative can choose to leave his role of representative before his mandate's end.
+In such case, if the Akyanet entity does not have other representatives left, a new representative should be found as soon as possible.
 
 ### Justice
 
@@ -236,9 +237,9 @@ But you must remember that coercive forces must be avoided.
 The Global Coordinator, or GC, is a group of representatives, emergency response teams' representatives, professionals, experts, and individuals.
 They are all revokable.
 
-Everyone can join the Global Coordinator, but they must be aware that their work will be public (open-source).
+Everyone can join the Global Coordinator.
 
-The purpose of the Global Coordinator is to solve major problems.
+The purpose of the Global Coordinator is to solve major problems or to redirect problems to the right entities.
 
 The to do list is a priority queue that can be found online.
 This means everyone can submit a task to the list, but they must have a certain number of upvotes to have a greater priority.
@@ -256,6 +257,9 @@ As a reminder, one upvote plus one downvote = 0.
 The Global Coordinator also defines the rules that everyone must respect.
 To add, remove, or change one of these rules, you will need to submit a task about this in the Global Coordinator to do list (priority queue), then, the Global Coordinator will organise a vote where the entire community of Akyanet will participate.
 The subject of the vote is passed if the majority (50% + 1) of the community voted for.
+
+Rules are something that we should avoid.
+Instead, these rules should become social habits.
 
 ### Voting
 
@@ -353,6 +357,8 @@ Here are some ideas for these rules:
 - "First come, first served".
 
 Maybe there can be multiple online or real-life give-away shops.
+
+In the long term, we must tend towards a gift culture.
 
 ### Leisure
 
@@ -692,6 +698,32 @@ We can divide the development of Akyanet in multiple phases:
 
 Note that none of these phases mention a territory.
 
+### Problems & Thoughts
+
+#### From Tristan Gerber
+
+During Akyanet's development, the capitalist governments probably will not stay still.
+Here is a list of the current unsolved problems we are probably going to encounter:
+
+1. Being a member of Akyanet - while in its first phases - means that you will do more and more for Akyanet while doing less and less for the government or any capitalist entities.
+The governments will try to prevent people from joining Akyanet.
+They could do so by giving them something or by restricting them.
+If they do so by giving them money or something, no big deal, this would be seen as a loss of control, which will only bring more people into Akyanet, but there are few possibilities where they do so.
+They would instead do mass anti-Akyanet propaganda, make some territory taxes which Akyanet users would find themselves unable to pay, pass some laws that would restrict Akyanet users from using anything the government have.
+For example : public transport, health care, schooling and much more.
+If a scenario like this occurs, the government could use the military to make these laws respected.
+This would be even more of a problem in foreign countries where the government is omniscient and does not fear the people (China, Russia, ...).
+Phones could also be controlled or restricted from Akyanet users by big corporations because they would see Akyanet members as non-profitable or dangerous for their business.
+
+2. ((TODO
+  ))
+
+
+Poor countries could be a good place to introduce Akyanet because people usually live closer one to another and already knows everyone in one's village.
+The government also could not control the people too easily, they would not have much to loose.
+The problem is that they would eventually not have contact means due to poverty. This is also riskier because the government is more dangerous and will not hesitate to kill.
+
+
 ### Akyanet flag
 
 The Akyanet flag (see Resources > Images) is a red and black flag (anarcho-communist flag) in the background with the Akyanet logo on top of it.
@@ -710,6 +742,9 @@ For example, in the chapter on politics, the representative system can be proble
 So if you have any suggestions or any ideas about how we could create a better system, you can create a pull request, you can direct-message me, you can create an issue on the repository, or you can create a fork of this repository.
 
 When I write "competition", I mean the competition like competition between markets and companies, not competition of biological evoluation or sportive competition.
+
+In this document, when "he", "his", and "him" is written, it is just a way of simplifying the document readability.
+It does not mean that we are excluding people.
 
 Anyway, I hope this whole document and the future Akyanet website will help making things move.
 
@@ -759,7 +794,7 @@ Anyway, I hope this whole document and the future Akyanet website will help maki
 ## Thanks
 
 - [PhirosWolf](https://github.com/PhirosWolf), for creating and writing this document.
-- Tristan Gerber, for debating about this document.
+- Tristan Gerber, for debating and helping with the writing of this document.
 - Arthur Menetrey, for debating about this document.
 - Jonathan Letourneur, for debating about this document.
 - [Shad Amethyst](https://github.com/adri326/), for debating about this document.
