@@ -50,6 +50,9 @@
   - [Problems & Thoughts](#problems--thoughts)
     - [From Tristan Gerber](#from-tristan-gerber)
   - [Akyanet flag](#akyanet-flag)
+  - [Activism](#activism)
+  - [Propaganda](#propaganda)
+  - [Diplomacy](#diplomacy)
 - [Notes](#notes)
   - [From PhirosWolf](#from-phiroswolf)
 - [Resources](#resources)
@@ -210,6 +213,8 @@ The representatives can be revoked at any time by the represented if the majorit
 The mandate duration is fixed to 3 months. (this mandate duration can evolve over time.)
 
 The goal of these representatives is not to vote on behalf of the represented (since it does not work), but to represent the interests of the represented by debating, discussing, and arguing over multiple subjects to come with suggestions of "rules" that the represented will vote on to know whether or not they agree to the suggestion.
+These suggestions should, as much as possible, be based on facts and studies.
+These same facts and studies should also be [peer-reviewed](https://en.wikipedia.org/wiki/Peer_review) to prevent the distortion of real events.
 
 Discussions and debates within the councils should be accessible to everyone and thus, recorded and broadcasted accordingly.
 
@@ -235,9 +240,19 @@ But you must remember that coercive forces must be avoided.
 ### Global Coordinator
 
 The Global Coordinator, or GC, is a group of representatives, emergency response teams' representatives, professionals, experts, and individuals.
-They are all revokable.
+It can be thought as the council for the whole Akyanet community.
+
+The members of the GC are all revokable.
 
 Everyone can join the Global Coordinator.
+But the "managers" (the ones who will dispatch the work) of the Global Coordinator are exactly like a council, in fact, it is the council of the whole Akyanet community.
+Therefore, the members of the council should be elected by the voting method that the community has chosen.
+It could be random selection, STV, FPTP, or whatever the community choose.
+This method is chosen before the, maybe optional, elections using [Schulze STV](https://en.wikipedia.org/wiki/Schulze_STV) voting.
+The members of the council have a 3 month mandate, like the councils of other Akyanet entities.
+The same rules are applied.
+
+The list of methods of election for the GC can be updated (adding a new method to the list) using the GC's to do list.
 
 The purpose of the Global Coordinator is to solve major problems or to redirect problems to the right entities.
 
@@ -265,6 +280,9 @@ Instead, these rules should become social habits.
 
 Voting is pretty difficult to implement.
 This is why this version of this document is not precise about every case (for exemple, in case of major health issues (pandemics, ...)) and how they should be handled.
+
+You have the right to vote if you are a member of Akyanet and you are 15 years old or older.
+But in the long term, even non-members should be able to vote.
 
 *PhirosWolf's note*:
 > I'm not an expert on every subject, so if you have an idea of how this document could be more precise and/or cover more subjects, you could always help me to complete this document.
@@ -343,6 +361,12 @@ Changing or revoking an agreement after concluding it is possible if all the inv
 
 If a member is found to abuse the trust of others, social workers or workers in the domain of psychology and/or medicine will take his case.
 In extreme forms of abuse, the justice system will take his case.
+
+Akyanet members should be aware that some members cannot provide or do not need to provide a counterpart for an agreement.
+For instance, some disabled people are unable to work, but this does not that should be left apart.
+Farmers, ERTs, and other people which have a longer work week do not necessarily need to give a counterpart since everyone benefits from their work.
+
+This is why we must tend towards a gift culture, because everyone is contributing to the social welfare and thus, nobody should need to work more to compensate counterparts of various agreements.
 
 ### Gifts
 
@@ -529,8 +553,10 @@ Some of them, like the general use halls, can be reserved by individuals or by g
 [Freedom of the press](https://en.wikipedia.org/wiki/Freedom_of_the_press), [freedom of speech](https://en.wikipedia.org/wiki/Freedom_of_speech), and [freedom of information](https://en.wikipedia.org/wiki/Freedom_of_information) will be guaranteed.
 
 [Fact-checking](https://en.wikipedia.org/wiki/Fact-checking) is important.
-All medias will be strongly advised to add a kind of fact-checking score on each article / each news so that people can quickly see the veracity of the article/news to prevent [media manipulation](https://en.wikipedia.org/wiki/Media_manipulation).
+All medias will be strongly advised to add a kind of fact-checking score that can clearly be seen on each article / each news so that people can quickly see the veracity of the article/news to prevent [media manipulation](https://en.wikipedia.org/wiki/Media_manipulation).
 This fact-checking score can be determined by computing the average of the scores given by fact-checking associations.
+
+In case of a very low fact-checking score or in case of an article talking about a sensitive subject (suicide, racism, violence, ...), a banner could be added next to the article to help the readers understand the context of what they are reading, what they should watch out for, and why this specific article has this banner and this low score.
 
 To create a media, you just need to create an association for it.
 
@@ -698,6 +724,11 @@ We can divide the development of Akyanet in multiple phases:
 
 Note that none of these phases mention a territory.
 
+You can see that, in the first phases, there is a kind of "approval" system, which is in conflict with the no discrimination rule.
+This approval system is just a way to temporarily protect Akyanet from dangerous people (e.g. fascists) which are trying to join Akyanet only to destroy it.
+Obviously, this approval system will not last long and will require less and less criteria over time until this approval system is completely gone.
+When this approval system will disappear, it will mean that the social workers of Akyanet will be able to help these "dangerous" people understand their mistakes.
+
 ### Problems & Thoughts
 
 #### From Tristan Gerber
@@ -715,8 +746,7 @@ If a scenario like this occurs, the government could use the military to make th
 This would be even more of a problem in foreign countries where the government is omniscient and does not fear the people (China, Russia, ...).
 Phones could also be controlled or restricted from Akyanet users by big corporations because they would see Akyanet members as non-profitable or dangerous for their business.
 
-2. ((TODO
-  ))
+2. ((TODO))
 
 
 Poor countries could be a good place to introduce Akyanet because people usually live closer one to another and already knows everyone in one's village.
@@ -727,6 +757,42 @@ The problem is that they would eventually not have contact means due to poverty.
 ### Akyanet flag
 
 The Akyanet flag (see Resources > Images) is a red and black flag (anarcho-communist flag) in the background with the Akyanet logo on top of it.
+
+### Activism
+
+Every members is free from joining activist groups in foreign countries.
+But no one should pretend acting on behalf of Akyanet.
+
+If, on rare occasions, the community of Akyanet strongly agrees on taking part in a protest, this same protest **must** be a peaceful one.
+
+Protests in countries threatening Akyanet or threatening to use lethal weapons / mass-destruction weapons should be avoided.
+
+### Propaganda
+
+Propaganda posters for Akyanet can exist, but it must always be [objective](https://en.wikipedia.org/wiki/Journalistic_objectivity), clearly show the source of the information, and the information must always be right (therefore, [peer-reviewed](https://en.wikipedia.org/wiki/Peer_review)).
+
+These "propaganda" posters could show, for example, motivating messages for everyone.
+
+The drawing or the things that are displayed on propaganda must not offense anyone.
+It could denounce the acts of a company, but not the person running the company.
+
+Propaganda cannot take form as censorship.
+
+We should remember that, in these companies, the workers are almost forced to do what they are ordered to do, and the bosses are also forced to keep the competition going because more ruthless companies could make them bankrupt if they do not.
+
+Propaganda will be used only to motivate people or helping them understand what some companies or nations are doing wrong, but arousing hate towards an individual or a group of individuals will never ever be the goal of Akyanet.
+
+### Diplomacy
+
+As the population of Akyanet will start to grow, the need for diplomats will increase.
+
+Diplomats are workers in charge of official relationships with other countries or communities.
+
+They are appointed by the Akyanet members using [Schulze STV](https://en.wikipedia.org/wiki/Schulze_STV) for a 3 months mandate.
+
+As for council members, they are revokable.
+
+As diplomats, they need to cooperate closely to the GC to correctly represent the interests of the Akyanet community and to promote peace around the world.
 
 ## Notes
 
@@ -790,6 +856,8 @@ Anyway, I hope this whole document and the future Akyanet website will help maki
 - [https://en.wikipedia.org/wiki/Freedom_of_movement](https://en.wikipedia.org/wiki/Freedom_of_movement). Retrieved 14:00 CET, January 21, 2021.
 - [https://en.wikipedia.org/wiki/Polyamory](https://en.wikipedia.org/wiki/Polyamory). Retrieved 14:00 CET, January 21, 2021.
 - [https://en.wikipedia.org/wiki/Social_constructionism](https://en.wikipedia.org/wiki/Social_constructionism). Retrieved 14:00 CET, January 21, 2021.
+- [https://en.wikipedia.org/wiki/Peer_review](https://en.wikipedia.org/wiki/Peer_review). Retrieved 17:30 CET, January 27, 2021.
+- [https://en.wikipedia.org/wiki/Journalistic_objectivity](https://en.wikipedia.org/wiki/Journalistic_objectivity). Retrieved 17:30 CET, January 27, 2021.
 
 ## Thanks
 
