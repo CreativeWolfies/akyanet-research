@@ -797,4 +797,4 @@ Anyway, I hope this whole document and the future Akyanet website will help maki
 - Tristan Gerber, for debating and helping with the writing of this document.
 - Arthur Menetrey, for debating about this document.
 - Jonathan Letourneur, for debating about this document.
-- [Shad Amethyst](https://github.com/adri326/), for debating about this document.
+- [Shad Amethyst](https://github.com/adri326/), for debating and about this document, correcting it, and adding content to it.
