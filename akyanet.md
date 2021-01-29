@@ -53,6 +53,8 @@
   - [Activism](#activism)
   - [Propaganda](#propaganda)
   - [Diplomacy](#diplomacy)
+  - [Patents and copyrights](#patents-and-copyrights)
+  - [Akyanet website and its maintenance](#akyanet-website-and-its-maintenance)
 - [Notes](#notes)
   - [From PhirosWolf](#from-phiroswolf)
 - [Resources](#resources)
@@ -80,15 +82,15 @@ Actually, a lot.
 The ubiquity of the money for example.
 Money gives power.
 And this power is concentrated in hands of a few people.
-It creates gaps between people and makes us go straight into the wall.
-Corruption exists mainly because of money.
+It causes gaps between people and makes us go straight into the wall.
+Corruption exists primarily because of money.
 
 Money is not the only problem.
-There is also weapons of mass destruction, war, unfair justice, lack of equality, etc.
+There are also [weapons of mass destruction](https://en.wikipedia.org/wiki/Weapon_of_mass_destruction), war, unfair justice, lack of equality, etc.
 We live in a world where the rich gets richer, the poor gets poorer, and the middle class struggles to be part of the so-called "bourgeoisie" in the hope of feeling better.
 There is something wrong about this system.
-We dream of becoming rich to get the things we like.
-And to do this, our current society suggests that we must compete against others and forget the ones at the bottom because they "deserved it."
+We dream of becoming rich to obtain the things we appreciate.
+And to achieve this, our current society suggests that we must compete against others and abandon the ones at the bottom because they "deserved it."
 
 ### I'm fine with this system, so why change it?
 
@@ -111,7 +113,7 @@ Let us take the first word, "communism." According to [Wikipedia](https://en.wik
 
 This is pretty different from the totalitarian dictatorship many people think about when hearing that word.
 This misnamed definition perhaps originates from [McCarthyism](https://en.wikipedia.org/wiki/McCarthyism) or the global fear of communism caused by the USSR and the cold war.
-In other words, this propaganda from the past is having a long-lasting effect on the word "communism."
+In other words, this propaganda from the past is producing a persistent effect on the word "communism."
 
 Unfortunately, this is not the only word suffering from misnaming. Let us take the case of "anarchism."
 As for the previous word, here is the definition from [Wikipedia](https://en.wikipedia.org/wiki/Anarchism):
@@ -122,7 +124,7 @@ As for the previous word, here is the definition from [Wikipedia](https://en.wik
 However, the popular definition could be expressed simply by "the abolition of all rules, chaos; confusion and disorder." But this is a common confusion between anarchism and [anomie](https://en.wiktionary.org/wiki/anomie). Wiktionary defines "anomie" as such:
 > Alienation or social instability caused by erosion of standards and values.
 
-Now that you have the correct definitions, we can define what is the purpose of Akyanet.
+Now that you have the accurate definitions, we can define what is the purpose of Akyanet.
 
 ## The goals of Akyanet
 
@@ -136,19 +138,19 @@ Everyone should be equal.
 This means nobody should be oppressed, discriminated, or prevented from taking part in the development of Akyanet.
 
 Hierarchies must be prohibited **except** when they are vital.
-For example, on a ship, there must be a captain to give orders as for piloting the ship correctly.
+For example, on a ship, there must be a captain to give orders as for navigating the ship correctly.
 But the captain must be aware that he is not in a position of power.
-This means that the captain should also do some chores on the ship as long as it does not compromise the safety of the people on board.
+This means the captain should also do some chores on the ship as long as it does not compromise the safety of the people on board.
 
 We must seek to achieve total autonomy within Akyanet.
-Which means that the community is able to give appropriate housing for everyone, food, electricity, running water, heating, internet, health services, etc. without external help.
-But it does not mean that we should isolate from people that are not part of Akyanet.
+Which means that the community is able to provide appropriate housing for everyone, food, electricity, running water, heating, internet, health services, etc. without external help.
+But it does not mean we should isolate from people that are not part of Akyanet.
 
 Money should be abolished because it will become obsolete.
 
 Art should remain art. In our current capitalist society, art is worthless except if you can sell it.
 And to sell it, it must become a product and not art.
-Imagine being a talented painter that can paint magnificent landscapes but with your own, exotic style and also know how to paint with a style similar to Picasso, but you do not like painting this way.
+Imagine being a talented painter that can depict magnificent landscapes but with your own, exotic style and also know how to paint with a style similar to Picasso, but you do not like painting this way.
 Well, within the capitalist society, since your own style does not matter, you will be forced to make Picasso-like paintings because you cannot live off your own style.
 
 Ecology must be a priority. Unsustainable energy must be prohibited except for research purposes.
@@ -165,7 +167,7 @@ Exceptions can be made when, for example, you have a 152 people living near each
 
 A commune is a union of districts.
 Preferably geographically close to each other.
-Communes are limited to 10000 people but as for the districts, there can be exceptions, and this limit can change over time.
+Communes are limited to 10,000 people but as for the districts, there can be exceptions, and this limit can change over time.
 
 Unions of communes are... unions of communes, obviously.
 As for the communes, it is preferable that they are geographically near one another.
@@ -176,31 +178,31 @@ Unions of communes are not limited in population.
 You can join a district whenever you want.
 There are no prerequisites for joining a district.
 
-When you want to join a district, you will need to establish a contract with people responsible for this task (Which are chosen democratically by the district members, so it could be the district council, an individual, or the whole district. It is entirely up to the district).
+When you want to join a district, you will need to establish a contract with people responsible for this task (Which are chosen democratically by the district members, so it could be the district council, an individual, or the whole district. It is completely up to the district).
 This contract, called the social contract, will describe what the district guarantees to you (housing, food, etc.) and what you guarantee to give to the district (performing essential tasks, etc.).
 
 The social contract must respect the rules defined by the Global Coordinator (more on that later).
 Additional terms of the contract are to be defined when establishing the contract.
 
-You have the right to leave your district, your commune, and your union of communes whenever you want.
+You retain the right to leave your district, your commune, and your union of communes whenever you want.
 
 ### Essential tasks
 
 In every commune or district, depending on their geographical situation, random members or all members, depending on the number of tasks, will be asked to perform certain tasks (for example, cleaning the streets, taking out the trash, ...) according to their social contract.
 
-Members can ask to have another task attributed to them, but they must understand that every task is essential and if they slightly dislike their attributed task, it is not really a good reason to ask for another attribution.
-But coercive forces must be avoided, so the commune or the district will have to make sure that everyone knows why they are doing these tasks and how they are essential.
+Members can ask to have another task attributed to them, but they must understand that every task is essential and if they slightly dislike their attributed task, it is not really a sufficient reason to ask for another attribution.
+But coercive forces must be avoided, so the commune or the district will have to make sure everyone knows why they are doing these tasks and how they are essential.
 
 If two members agree on exchanging their tasks, it is up to the district/commune council to decide if they can do it without prior authorization from the district/commune council.
-This authorization is sometimes needed to be sure that the members know how to perform their task.
+This authorization is sometimes required to be sure that the members know how to perform their task.
 But as always, coercive forces must be avoided at all costs.
 
 It is up to the district to choose how and when the tasks will be attributed.
 
 Given tasks should be adapted to each individual according to their work and their capabilities.
-For example, students will be given tasks relative to the subjects they are studying so that they can improve their education while helping the community by doing essential tasks.
+For example, students will be given tasks relative to the subjects they are studying so that they can improve their education while helping the community by performing essential tasks.
 
-If a district does not have enough people to perform all essential tasks, the district can ask for help from the commune.
+If a district does not have enough people to perform all essential tasks, the district can request help from other Akyanet entities (communes, unions of communes, ...).
 
 ### Politics
 
@@ -562,6 +564,8 @@ In case of a very low fact-checking score or in case of an article talking about
 
 To create a media, you just need to create an association for it.
 
+We could imagine an association of all media associations to create and update regularly media guidelines to provide advises about how to prevent biases, how to deal with sensitive subjects, etc.
+
 ### Housing
 
 Appropriate housing should be given to everyone.
@@ -785,6 +789,8 @@ We should remember that, in these companies, the workers are almost forced to do
 
 Propaganda will be used only to motivate people or helping them understand what some companies or nations are doing wrong, but arousing hate towards an individual or a group of individuals will never ever be the goal of Akyanet.
 
+In other words, I do not think that the term "propaganda" applies for this kind of public information because all of the displayed information is factual and it do not seek to hide compromising informations.
+
 ### Diplomacy
 
 As the population of Akyanet will start to grow, the need for diplomats will increase.
@@ -796,6 +802,59 @@ They are appointed by the Akyanet members using [Schulze STV](https://en.wikiped
 As for council members, they are revokable.
 
 As diplomats, they need to cooperate closely to the GC to correctly represent the interests of the Akyanet community and to promote peace around the world.
+
+### Patents and copyrights
+
+In our current society, patents and copyrights are used to protect the revenue that the protected product generate.
+But since Akyanet is a society without money, patents and copyrights becomes useless.
+
+The issue with copyrights and patents is that they often slow down research.
+
+This is why, in Akyanet, patents and copyrights are abolished.
+Instead, licenses are used.
+
+Licenses contain the name(s) of the creation's author(s) and the date of when it was created.
+If someone brings changes to the original creation, he must provide a copy of the license with it.
+This copied license should contain the original content of the license, a link to the original work if possible, and the name(s) of the changes' author(s) with, when possible, a short description of the changes and the date of the changes.
+
+If a member pretends to be the original author of a creation when he is not, the real original author have multiple choices: he can discuss with the fake original author to try finding common ground, or he can report this abuse on the website to correct the license.
+
+This licensing system is the one by default.
+Meaning that if a creation does not have a license attached to it, if you make changes to it or you simply repost it, you have to mention the original creator, etc.
+
+You cannot license anything.
+The creation must be reasonably complex (e.g. you cannot license a color or a shape).
+
+In some cases, you can limit the use of a creation.
+For instance, if you create a logo for your association and you use it as a seal (to indicate the origin of some documents for example), you do not want someone else to use it as it could mislead some members.
+In this situation, you have to mention the usage limitations in the license and you have to provide a valid justification of why you need these usage limitations.
+
+### Akyanet website and its maintenance
+
+The Akyanet website is an important part of Akyanet.
+The goals of this website are to provide a personal space to Akyanet members, provide voting interfaces, forums, links to information sources, various tools, and much more.
+
+The source code of the website must be open-source.
+
+In the first phases, the Akyanet website will be hosted using a host which is not part of Akyanet.
+But, when possible, we must host Akyanet on Akyanet host servers and decentralize Akyanet to reduce the risk of total destruction due to a server takedown.
+
+The maintenance will be guaranteed by a commitee named Akyanet Website Maintenance Commitee, or AWMC in short.
+Members of this commitee are appointed by the Global Coordinator.
+All members of this commitee are revokable at any time.
+They have a 3-month mandate.
+
+All changes require the approval of all AWMC members.
+These same changes, once approved by the AWMC, should be approved by the Global Coordinator, which could organize a vote involving the whole Akyanet community if needed.
+
+Modifications and modification requests, including their current state and additional information about them (code, description, debates transcripts, ...), must be public.
+
+The size of the commitee should be large enough to quickly apply the requested modifications and to reduce the risk of corruption.
+
+A system of key-sharing between AWMC and the GC must be set up as soon as possibe to prevent the application of unwanted changes from the AWMC.
+This system must prevent unilateral changes.
+
+Additional commitees may be required to ensure the correct maintenance of the Akyanet website.
 
 ## Notes
 
