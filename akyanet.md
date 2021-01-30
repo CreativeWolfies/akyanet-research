@@ -39,6 +39,7 @@
   - [Housing](#housing)
   - [Joining and leaving Akyanet](#joining-and-leaving-akyanet)
   - [Akyanet ID Card](#akyanet-id-card)
+  - [Commitees](#commitees)
 - [About](#about)
   - [Family](#family)
   - [Religion](#religion)
@@ -55,6 +56,10 @@
   - [Diplomacy](#diplomacy)
   - [Patents and copyrights](#patents-and-copyrights)
   - [Akyanet website and its maintenance](#akyanet-website-and-its-maintenance)
+  - [Hunting](#hunting)
+  - [Road traffic](#road-traffic)
+  - [Narcotics](#narcotics)
+  - [Holding a meeting (for councils and commitees)](#holding-a-meeting-for-councils-and-commitees)
 - [Notes](#notes)
   - [From PhirosWolf](#from-phiroswolf)
 - [Resources](#resources)
@@ -223,7 +228,7 @@ Discussions and debates within the councils should be accessible to everyone and
 
 Councils are advised to debate with people concerned by the subjects that are being treated (e.g. railway workers when debating over a subject concerning railways).
 
-Regularly organising meetings with the district and its representatives is strongly advised.
+Regularly organizing meetings with the district and its representatives is strongly advised.
 
 Any representative can choose to leave his role of representative before his mandate's end.
 In such case, if the Akyanet entity does not have other representatives left, a new representative should be found as soon as possible.
@@ -273,7 +278,7 @@ When submitting a task, it has, by default, 0 upvotes.
 As a reminder, one upvote plus one downvote = 0.
 
 The Global Coordinator also defines the rules that everyone must respect.
-To add, remove, or change one of these rules, you will need to submit a task about this in the Global Coordinator to-do list (priority queue) , then, the Global Coordinator will organise a vote where the entire community of Akyanet will participate.
+To add, remove, or change one of these rules, you will need to submit a task about this in the Global Coordinator to-do list (priority queue) , then, the Global Coordinator will organize a vote where the entire community of Akyanet will participate.
 The subject of the vote is passed if the majority (50% + 1) of the community voted for.
 
 Rules are something that we should avoid.
@@ -315,7 +320,7 @@ As for districts, you are free to leave an association whenever you want.
 ### Work
 
 In Akyanet, the 20-hour week will be established (4h per day for 5 days).
-You are free to organise your work days, like, instead of 4 hours per day for 5 days, you could do 8h per day for 2 days followed by 4 hours of work the next day.
+You are free to organize your work days, like, instead of 4 hours per day for 5 days, you could do 8h per day for 2 days followed by 4 hours of work the next day.
 
 In some cases, the work week can be longer.
 For instance, emergency response teams will have longer work weeks.
@@ -610,6 +615,15 @@ The name, profile picture, and signature can be changed at any time.
 The profile picture could be your real face, a drawing, a picture, or anything you want.
 You just have to avoid using pictures that could harm people.
 
+### Commitees
+
+Commitees can be created and appointed by any council.
+
+The purpose of a council is to handle specific tasks.
+
+As for councils, their members usually have a 3-month mandate and they are revokable.
+These commitees should work closely with the council which appointed them and the data they collect should be public to make this council as transparent as possible.
+
 ## About
 
 ### Family
@@ -855,6 +869,71 @@ A system of key-sharing between AWMC and the GC must be set up as soon as possib
 This system must prevent unilateral changes.
 
 Additional commitees may be required to ensure the correct maintenance of the Akyanet website.
+
+### Hunting
+
+Hunting is an activity which have a negative impact on wildlife.
+This is why, in Akyanet, we should avoid it, and maybe even prohibit it.
+
+Animals deserve rights too.
+
+### Road traffic
+
+We still need traffic rules to prevent accidents from happening.
+
+Violation of these rules will result in interventions by social workers or by an ERT depending on the degree of violation.
+We do not seek to create a hierarchy.
+We only want to prevent road accidents.
+
+### Narcotics
+
+Narcotics can **only** be used for medical use (to help addicts get out of their addiction gradually).
+
+Narcotics are prohibited if they create an addiction that can get out of control very quickly.
+The ones that does not create addictions must not be sold and they must be reported and tracked precisely to prevent misusage.
+
+The Akyanet Drugs and Narcotics Monitoring Commitee, or ADNMC in short, is in charge of monitoring the use and the location of narcotics and drugs.
+This commitee is appointed by the Global Coordinator.
+As for the AWMC, the members of this commitee have a 3-month mandate, they are revokable, and they must work closely with the GC.
+
+The data collected by the ADNMC must be public.
+The only exception to this rule is the location of the drugs and narcotics.
+ERTs have the right to access this data in case of emergency.
+
+### Holding a meeting (for councils and commitees)
+
+Meetings inside councils and commitees should be respectful and well-organized debates.
+
+To do this, a moderator has to be chosen.
+The moderator has to be respectful, objective, and he must follow the list of agenda items.
+
+The role of the moderator is to give the floor to the people who want to express themselves on the current subject and to organize the debate.
+To do this, we could imagine a kind of protocol similar to this:
+
+1. The moderator states the current subject and the previous suggestions for this subject that have been rejected by the members of Akyanet.
+2. People who want to express themselves on the subject can use a predefined signal like raising their hand.
+3. The moderator gives the floor to a random person wanting to express himself on the subject using a random number generator or his sense of random (not recommended).
+4. The selected person expresses himself on the subject.
+5. Once the selected person has finished talking, the moderator takes the floor.
+6. The moderator asks if somebody has a comment on what the previous person said.
+7. As for the second step, people who want to express themselves use a predefined signal.
+8. Same as the third step.
+9. Same as the fourth step.
+10. Repeat from the sixth step until nobody wants to comment on the subject anymore.
+11. The moderator takes the floor and ask if everyone has finished talking.
+12. If yes, then go to the next step. Otherwise, go to the seventh step.
+13. The moderator announces that it is time to come with suggestions.
+14. The moderator gives the time for everyone to create and write a suggestion. If suggestions have not been pre-written and it takes too much time for everyone to agree with a suggestion or to write one, the next step can be executed later (e.g. in the next days). (This is usually how it will happen.)
+15. Once everyone agrees with a suggestion or has written a suggestion, the moderator lets everyone state their position (if they agree with a suggestion or on some points of a suggestions, their objections, or their own suggestion).
+16. Once everyone has stated their position, the moderator asks if someone has something to say about the suggestions.
+17. If yes, start again from step one with the subjects being the given suggestions. Otherwise, the suggestions will be compiled in one document for each representative so that they speak with the people they represent to organize a vote about the suggestions.
+18. If the outcome of this vote is that they refuse all the suggestions, go to the next step, etc. Otherwise, if a suggestion has been chosen, it will be applied and the representative can work on other subject.
+19. In this case, the representatives will have to discuss with the people to know their point of view, their suggestions, their objections, etc. So that he can build new suggestions and better represent their interests in the debates.
+
+Obviously, the moderator is revokable.
+
+Interrupting someone who has the floor without a good reason (e.g. because the one who has the floor is having a violent or harmful speech) results in a public mention in official records about this fact and an intervention of a social worker after the session to help him understand why he should not interrupt others.
+If it is the third time he is interrupting someone without a good reason, he will be revoked and he will have to talk about this to social workers.
 
 ## Notes
 
