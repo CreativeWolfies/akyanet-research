@@ -58,8 +58,10 @@
   - [Akyanet website and its maintenance](#akyanet-website-and-its-maintenance)
   - [Hunting](#hunting)
   - [Road traffic](#road-traffic)
-  - [Narcotics](#narcotics)
+  - [Narcotics and drugs](#narcotics-and-drugs)
   - [Holding a meeting (for councils and commitees)](#holding-a-meeting-for-councils-and-commitees)
+  - [Discrimination and tolerance](#discrimination-and-tolerance)
+  - [Secrets for defence](#secrets-for-defence)
 - [Notes](#notes)
   - [From PhirosWolf](#from-phiroswolf)
 - [Resources](#resources)
@@ -581,6 +583,11 @@ The best would be to have common rooms (kitchen, toilets, living room) and one p
 Well, for now, housing will depend on the houses inside your district.
 But I am aware that this is not a good solution, so we should find a fairer solution.
 
+I think we need to make villages and cities autonomous.
+To do that, we should make villages grow and decrease the size of cities.
+We should also improve the number of public spaces and green spaces, as well as the architecture and the organization of cities and villages.
+Once this is done, a more equal housing system can take place.
+
 Maintenance of the houses and apartments are done by their occupants or by specialized people in cases of serious damages/problems.
 
 ### Joining and leaving Akyanet
@@ -885,7 +892,7 @@ Violation of these rules will result in interventions by social workers or by an
 We do not seek to create a hierarchy.
 We only want to prevent road accidents.
 
-### Narcotics
+### Narcotics and drugs
 
 Narcotics can **only** be used for medical use (to help addicts get out of their addiction gradually).
 
@@ -899,6 +906,11 @@ As for the AWMC, the members of this commitee have a 3-month mandate, they are r
 The data collected by the ADNMC must be public.
 The only exception to this rule is the location of the drugs and narcotics.
 ERTs have the right to access this data in case of emergency.
+
+Some associatons could work closely with the ADNMC so that they could research to create a **non-addictive** and **non-dangerous** mind-altering substance.
+The point of doing this is to find an alternative to alcohol and other dangerous substances with the goal of making this new substance non-addictive and non-dangerous.
+Creating a mind-altering substance as mentionned could reduce the number of deaths caused by alcohol and others.
+Obviously this new substance should be monitored by the ADNMC to prevent misuse of it.
 
 ### Holding a meeting (for councils and commitees)
 
@@ -934,6 +946,27 @@ Obviously, the moderator is revokable.
 
 Interrupting someone who has the floor without a good reason (e.g. because the one who has the floor is having a violent or harmful speech) results in a public mention in official records about this fact and an intervention of a social worker after the session to help him understand why he should not interrupt others.
 If it is the third time he is interrupting someone without a good reason, he will be revoked and he will have to talk about this to social workers.
+
+### Discrimination and tolerance
+
+Discrimination and intolerance should be avoided at all costs, or even prohibited.
+
+Intolerant people should not be punished, only their intolerant ideas should.
+Such people should or must discuss with social workers to make them understand why intolerance is bad for everyone.
+
+By discrimination, I mean restricting people from accessing something depending on their gender, race, etc.
+"Discrimination" for accessing jobs in risky work fields is allowed if justifiable.
+This kind of discrimination must be based only on their knowledge concerning their new work field.
+See the "[Education](#education)" section.
+
+Discrimination and intolerance should not be tolerated, even if it seems paradoxal.
+
+### Secrets for defence
+
+Information threatening the safety of Akyanet members and other people should not be disclosed until the threat induced by the information disappears.
+
+Since we must not hide information from the people, this kind of information should be acknowledged but not disclosed until the threat is gone.
+We could do this by writing, for example, "This information could threaten the safety of some people if disclosed. It will be disclosed as soon as the threat disappears."
 
 ## Notes
 
