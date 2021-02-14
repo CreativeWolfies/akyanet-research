@@ -62,6 +62,7 @@
   - [Holding a meeting (for councils and commitees)](#holding-a-meeting-for-councils-and-commitees)
   - [Discrimination and tolerance](#discrimination-and-tolerance)
   - [Secrets for defence](#secrets-for-defence)
+  - [Privacy](#privacy)
 - [Notes](#notes)
   - [From PhirosWolf](#from-phiroswolf)
 - [Resources](#resources)
@@ -947,6 +948,8 @@ Obviously, the moderator is revokable.
 Interrupting someone who has the floor without a good reason (e.g. because the one who has the floor is having a violent or harmful speech) results in a public mention in official records about this fact and an intervention of a social worker after the session to help him understand why he should not interrupt others.
 If it is the third time he is interrupting someone without a good reason, he will be revoked and he will have to talk about this to social workers.
 
+[This Wikipedia article](https://en.wikipedia.org/wiki/Consensus_decision-making) can be useful to understand more about consensus decision-making.
+
 ### Discrimination and tolerance
 
 Discrimination and intolerance should be avoided at all costs, or even prohibited.
@@ -967,6 +970,14 @@ Information threatening the safety of Akyanet members and other people should no
 
 Since we must not hide information from the people, this kind of information should be acknowledged but not disclosed until the threat is gone.
 We could do this by writing, for example, "This information could threaten the safety of some people if disclosed. It will be disclosed as soon as the threat disappears."
+
+### Privacy
+
+Online privacy should be a really important concept that must be integrated within Akyanet.
+
+Privacy options should be turned on by default.
+
+The Akyanet website must respect the [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) anywhere in the world.
 
 ## Notes
 
@@ -1033,6 +1044,8 @@ Anyway, I hope this whole document and the future Akyanet website will help maki
 - [https://en.wikipedia.org/wiki/Peer_review](https://en.wikipedia.org/wiki/Peer_review). Retrieved 17:30 CET, January 27, 2021.
 - [https://en.wikipedia.org/wiki/Journalistic_objectivity](https://en.wikipedia.org/wiki/Journalistic_objectivity). Retrieved 17:30 CET, January 27, 2021.
 - [https://en.wikipedia.org/wiki/Weapon_of_mass_destruction](https://en.wikipedia.org/wiki/Weapon_of_mass_destruction). Retrieved 22:00 CET, January 27, 2021.
+- [https://en.wikipedia.org/wiki/Consensus_decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making). Retrieved 16:00 CET, Fabruary 14, 2021.
+- [https://en.wikipedia.org/wiki/General_Data_Protection_Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation). Retrieved 16:30 CET, February 14, 2021.
 
 ## Thanks
 
