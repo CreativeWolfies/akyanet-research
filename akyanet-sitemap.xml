@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+|
+|- <sitemap>
+|- |- Description: Represents a sitemap. Contains page and template elements.
+|- |- Attributes
+|- |- |- name: Sitemap's name
+|
+|- <pages>
+|- |- Description: Container for <page> elements.
+|
+|- <page> represents a page
+|- |- Description: Represents a page.
+|- |- Attributes
+|- |- |- name: Page's name
+|- |- |- tags: A list of tags separated by a space
+|- |- |- templates: A list of template names separated by a space representing the template pages contained within the page (e.g. a navigation menu)
+|- |- |- cond-templates: List of template names and conditions separated by semicolons (e.g. "abc=condition;def=condition"). Templates applied if their associated condition is true.
+|
+|- <links>
+|- |- Description: Container for <link> and <abstract-link> elements.
+|
+|- <link>
+|- |- Description: Represents a link to a page.
+|- |- Attributes
+|- |- |- dest: The page name of the link's destination
+|- |- |- cond: Link's condition.
+|- |- |- auto: Boolean describing if the link is followed as soon as its condition is true. False by default
+|
+|- <abstract-link>
+|- |- Description: Represents a link to a set of pages. An abstract link may not appear at all or appear multiple times to link all pages.
+|- |- Attributes
+|- |- |- dests: List of page names separated by a space. Represents the list of pages that the abstract link can link to. A <role> element can also be used instead of this attribute to adapt easily to change.
+|- |- |- dest-tags: List of tag names separated by a space. Represents the list of pages tagged with the given tags that the abstract link can link to.
+|
+|- <desc>
+|- |- Description: Contains a string explaining the role of the parent element.
+|
+|- <actions>
+|- |- Description: Container for <action> elements.
+|
+|- <action>
+|- |- Description: Contains a string explaining an action triggered by the parent element.
+|
+|- <tags>
+|- |- Description: Container for <tag> elements.
+|
+|- <tag>
+|- |- Description: Defines a tag that can be used in tags attributes.
+|- |- Attributes
+|- |- |- name: Tag's name. If a tag is named "all", it will be applied on all pages.
+|- |- |- templates: List of template names separated by a space. These templates will be added to the page using the tag.
+|- |- |- cond-templates: List of template names and conditions separated by semicolons (e.g. "abc=condition;def=condition"). Templates applied if their associated condition is true.
+|
+|- <templates>
+|- |- Description: Container for <template> elements.
+|
+|- <template>
+|- |- Description: Like a page, but it is not a page by itself. It is contained within pages.
+|- |- Attributes
+|- |- |- name: Template's name
+|- |- |- inherit: List of template names separated by a space. These templates will be added to the current template.
+|
+-->
+<sitemap name="akyanet">
+  <tags>
+    <tag name="public">
+      <desc>Represents public pages that can be accessed by anyone</desc>
+    </tag>
+
+    <tag name="private">
+      <desc>Represents private pages that can only be accessed by a logged in user. These pages are often personalized depending on the user.</desc>
+    </tag>
+
+    <tag name="only-logged-out">
+      <desc>Represents public pages that can be accessed only if you are a logged out. Once logged in, you cannot access these pages.</desc>
+    </tag>
+
+    <tag name="nav" cond-templates="public-nav=!isLoggedIn;private-nav=isLoggedIn">
+      <desc>Navigation menu</desc>
+    </tag>
+
+    <tag name="portal">
+      <desc>Represents portal pages</desc>
+    </tag>
+
+    <tag name="administrative">
+      <desc>Administration-related pages</desc>
+    </tag>
+
+    <tag name="social">
+      <desc>Social-related pages</desc>
+    </tag>
+
+    <tag name="vote-list" templates="vote-list">
+      <desc>Represents pages having a list of votes (if the page represents an entity concerned by multiple votes)</desc>
+    </tag>
+
+    <tag name="meeting-list" templates="meeting-list">
+      <desc>Represents pages having a list of public meetings</desc>
+    </tag>
+  </tags>
+
+  <templates>
+    <template name="generic-nav">
+      <desc>Navigation menu</desc>
+      <links>
+        <link dest="welcome-page" cond="!isLoggedIn">
+          <desc>The akyanet logo makes the user return to the homepage</desc>
+        </link>
+        <link dest="homepage" cond="isLoggedIn">
+          <desc>The akyanet logo makes the user return to the homepage</desc>
+        </link>
+      </links>
+    </template>
+
+    <template name="public-nav" inherit="generic-nav">
+      <desc>Navigation menu for logged in users</desc>
+      <links>
+        <link dest="administrative-portal"></link>
+        <link dest="social-portal"></link>
+      </links>
+    </template>
+
+    <template name="private-nav" inherit="public-nav">
+      <desc>Navigation menu for logged out users</desc>
+      <links>
+        <link dest="my-profile"></link>
+        <link dest="my-associations"></link>
+        <link dest="my-communities"></link>
+      </links>
+    </template>
+
+    <template name="vote-list">
+      <desc>List of votes</desc>
+      <links>
+        <link dest="vote-x">
+          <desc>A vote in the list of votes</desc>
+        </link>
+      </links>
+    </template>
+
+    <template name="meeting-list">
+      <desc>List of meetings</desc>
+      <links>
+        <link dest="meeting-x">
+          <desc>A meeting in the list of meetings</desc>
+        </link>
+      </links>
+    </template>
+  </templates>
+
+  <pages>
+    <page name="welcome-page" tags="only-logged-out">
+      <desc>Page to welcome new users and introduce the Akyanet project to them.</desc>
+      <links>
+        <link dest="sign-in"></link>
+        <link dest="sign-up"></link>
+        <!-- These links are here to show new users what Akyanet look like -->
+        <link dest="administrative-portal"></link>
+        <link dest="social-portal"></link>
+      </links>
+    </page>
+
+    <page name="homepage" tags="private" templates="private-nav">
+      <desc>Page used to show personalized content such as news, quick links, ...</desc>
+      <links>
+        <link dest="welcome-page">
+          <actions>
+            <action>Log out the user</action>
+          </actions>
+        </link>
+        <abstract-link>
+          <desc>Links to personalized content (news, ...)</desc>
+        </abstract-link>
+      </links>
+    </page>
+
+    <page name="sign-in" tags="only-logged-out">
+      <desc>Page used to log in</desc>
+      <links>
+        <link dest="welcome-page"></link>
+        <link dest="sign-up"></link>
+        <link dest="homepage" cond="successfullyLoggedIn" auto="true"></link>
+      </links>
+    </page>
+
+    <page name="sign-up" tags="only-logged-out">
+      <desc>Page used to sign up (become a member of Akyanet)</desc>
+      <links>
+        <link dest="welcome-page"></link>
+        <link dest="sign-in"></link>
+        <link dest="homepage" cond="successfullySignedUp" auto="true"></link>
+      </links>
+    </page>
+
+    <page name="administrative-portal" tags="public nav portal administrative">
+      <desc>Page describing what the administrative portal is and giving links to administrative pages</desc>
+      <links>
+        <link dest="akyanet-entities-portal"></link>
+        <link dest="councils-commitees-portal"></link>
+        <link dest="associations-portal"></link>
+        <link dest="global-coordinator"></link>
+      </links>
+    </page>
+
+    <page name="akyanet-entities-portal" tags="public nav portal administrative">
+      <desc>Page describing what are Akyanet entities and giving links and search engines for akyanet entities</desc>
+      <links>
+        <link dest="district-x">
+          <desc>Can be accessed by districts search engine or other ways</desc>
+        </link>
+        <link dest="district-x" cond="isLoggedIn">
+          <desc>Labelled "my district", link to the district the user is part of</desc>
+        </link>
+        <link dest="commune-x">
+          <desc>Can be accessed by communes search engine or other ways</desc>
+        </link>
+        <link dest="commune-x" cond="isLoggedIn">
+          <desc>Labelled "my commune", link to the commune the user is part of</desc>
+        </link>
+        <link dest="union-of-communes-x">
+          <desc>Can be access by unions of communes search engine or other ways</desc>
+        </link>
+        <link dest="union-of-communes-x" cond="isLoggedIn">
+          <desc>Labelled "my union of communes", link to the union of communes the user is part of</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="district-x" tags="public nav portal administrative vote-list">
+      <desc>Page introducing the district and showing the events or information related to the district</desc>
+      <links>
+        <link dest="commune-x">
+          <desc>Commune containing the district</desc>
+        </link>
+        <link dest="union-of-communes-x">
+          <desc>Union of communes containing the district</desc>
+        </link>
+        <abstract-link>
+          <desc>Links to events, information, etc. related to the district</desc>
+        </abstract-link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="akyanet-entities-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="council-x">
+          <desc>District's council</desc>
+        </link>
+        <link dest="commitee-x">
+          <desc>Commitees managed by, composed by and working partially or fully for the district</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="commune-x" tags="public nav portal administrative vote-list">
+      <desc>Page introducing the commune and showing the events or information related to the commune</desc>
+      <links>
+        <link dest="district-x">
+          <desc>Districts contained by the commune</desc>
+        </link>
+        <link dest="union-of-communes-x">
+          <desc>Union of communes containing the district</desc>
+        </link>
+        <abstract-link>
+          <desc>Links to events, information, etc. related to the commune</desc>
+        </abstract-link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="akyanet-entities-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="council-x">
+          <desc>Commune's council</desc>
+        </link>
+        <link dest="commitee-x">
+          <desc>Commitees managed by, composed by and working partially or fully for the commune</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="union-of-communes-x" tags="public nav portal administrative vote-list">
+      <desc>Page introducing the union of communes and showing the events or information related to the union of communes</desc>
+      <links>
+        <link dest="district-x">
+          <desc>Districts contained by the union of communes</desc>
+        </link>
+        <link dest="commune-x">
+          <desc>Communes contained by the union of communes</desc>
+        </link>
+        <abstract-link>
+          <desc>Links to events, information, etc. related to the union of communes</desc>
+        </abstract-link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="akyanet-entities-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="council-x">
+          <desc>Union of communes' council</desc>
+        </link>
+        <link dest="commitee-x">
+          <desc>Commitees managed by, composed by and working partially or fully for the union of communes</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="councils-commitees-portal" tags="public nav portal administrative vote-list meeting-list">
+      <desc>Page describing what are councils and commitees and giving links and search engines for councils and commitees</desc>
+      <links>
+        <link dest="council-x">
+          <desc>Can be accessed by the councils search engine or other ways</desc>
+        </link>
+        <link dest="commitee-x">
+          <desc>Can be accessed by the commitees search engine or other ways</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="council-x" tags="public nav portal administrative vote-list meeting-list">
+      <desc>Page introducing the council and giving information about it</desc>
+      <links>
+        <link dest="commitee-x">
+          <desc>Commitees managed by, composed by and working partially or fully for the council</desc> <!-- Le commité est controlé/composé partiellement ou entierement par le conseil et/ou il travaille partiellement ou entierement pour le conseil -->
+        </link>
+        <link dest="councils-commitees-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </link>
+    </page>
+
+    <page name="meeting-x" tags="public nav administrative">
+      <desc>Page giving information about a meeting (transcript, decisions, ...)</desc>
+      <links>
+        <abstract-link dest-tags="meeting-list">
+          <desc>Breadcrumb navigation</desc>
+        </abstract-link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="vote-x" tags="public nav administrative">
+      <desc>Page giving informations about a vote (transcript, result, status, concerned parties, ...)</desc>
+      <links>
+        <abstract-link dest-tags="vote-list">
+          <desc>Breadcrumb navigation</desc>
+        </abstract-link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="voting-page" cond="isLoggedIn and isVoteOpen and !voteCasted">
+          <desc>Go to voting page</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="social-portal" tags="public nav portal social">
+      <desc>Page describing what the social portal is and giving links to social pages</desc>
+      <links>
+        <link dest="exchanges-portal"></link>
+        <link dest="communities-portal"></link>
+        <link dest="events-portal"></link>
+      </links>
+    </page>
+
+    <page name="my-profile" tags="private nav">
+      <desc>Page showing the user's profile details</desc>
+      <links>
+        <abstract-link>
+          <desc>Actions for changing username, name, aliases, details, ...</desc>
+        </abstract-link>
+      </links>
+    </page>
+
+    <page name="voting-page" tags="private nav administrative">
+      <desc>Page to cast your vote</desc>
+      <links>
+        <!-- mh? -->
+        <link dest="vote-x" cond="voteCasted" auto="true">
+          <desc>Return to the vote details once the vote is casted</desc>
+        </link>
+      </links>
+    </page>
+
+  </pages>
+</sitemap>
