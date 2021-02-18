@@ -80,7 +80,7 @@
       <desc>Navigation menu</desc>
     </tag>
 
-    <tag name="portal">
+    <tag name="portal" templates="portal-links">
       <desc>Represents portal pages</desc>
     </tag>
 
@@ -98,6 +98,10 @@
 
     <tag name="meeting-list" templates="meeting-list">
       <desc>Represents pages having a list of public meetings</desc>
+    </tag>
+
+    <tag name="gen-breadcrumb" templates="gen-breadcrumb">
+      <desc>Breadcrumb navigation for breadcrumb navigation root</desc>
     </tag>
   </tags>
 
@@ -137,6 +141,9 @@
         <link dest="vote-x">
           <desc>A vote in the list of votes</desc>
         </link>
+        <abstract-link>
+          <desc>Information related to the vote</desc>
+        </abstract-link>
       </links>
     </template>
 
@@ -145,6 +152,24 @@
       <links>
         <link dest="meeting-x">
           <desc>A meeting in the list of meetings</desc>
+        </link>
+      </links>
+    </template>
+
+    <template name="portal-links">
+      <desc>List of links related to the portal</desc>
+      <links>
+        <abstract-link>
+          <desc>Links related to the portal</desc>
+        </abstract-link>
+      </links>
+    </template>
+
+    <template name="gen-breadcrumb">
+      <desc>Breadcrumb navigation for breadcrumb navigation root</desc>
+      <links>
+        <link dest="root-portal">
+          <desc>Breadcrumb navigation</desc>
         </link>
       </links>
     </template>
@@ -162,7 +187,7 @@
       </links>
     </page>
 
-    <page name="homepage" tags="private" templates="private-nav">
+    <page name="homepage" tags="private nav">
       <desc>Page used to show personalized content such as news, quick links, ...</desc>
       <links>
         <link dest="welcome-page">
@@ -194,17 +219,28 @@
       </links>
     </page>
 
-    <page name="administrative-portal" tags="public nav portal administrative">
+    <page name="root-portal" tags="public nav portal">
+      <desc>Root portal</desc>
+      <links>
+        <link dest="administrative-portal"></link>
+        <link dest="social-portal"></link>
+      </links>
+    </page>
+
+    <!-- PUBLIC -->
+
+    <page name="administrative-portal" tags="public nav portal administrative gen-breadcrumb">
       <desc>Page describing what the administrative portal is and giving links to administrative pages</desc>
       <links>
         <link dest="akyanet-entities-portal"></link>
         <link dest="councils-commitees-portal"></link>
         <link dest="associations-portal"></link>
         <link dest="global-coordinator"></link>
+        <link dest="general-vote-list"></link>
       </links>
     </page>
 
-    <page name="akyanet-entities-portal" tags="public nav portal administrative">
+    <page name="akyanet-entities-portal" tags="public nav portal administrative gen-breadcrumb">
       <desc>Page describing what are Akyanet entities and giving links and search engines for akyanet entities</desc>
       <links>
         <link dest="district-x">
@@ -231,7 +267,7 @@
       </links>
     </page>
 
-    <page name="district-x" tags="public nav portal administrative vote-list">
+    <page name="district-x" tags="public nav portal administrative vote-list gen-breadcrumb">
       <desc>Page introducing the district and showing the events or information related to the district</desc>
       <links>
         <link dest="commune-x">
@@ -240,9 +276,6 @@
         <link dest="union-of-communes-x">
           <desc>Union of communes containing the district</desc>
         </link>
-        <abstract-link>
-          <desc>Links to events, information, etc. related to the district</desc>
-        </abstract-link>
         <link dest="administrative-portal">
           <desc>Breadcrumb navigation</desc>
         </link>
@@ -258,7 +291,7 @@
       </links>
     </page>
 
-    <page name="commune-x" tags="public nav portal administrative vote-list">
+    <page name="commune-x" tags="public nav portal administrative vote-list gen-breadcrumb">
       <desc>Page introducing the commune and showing the events or information related to the commune</desc>
       <links>
         <link dest="district-x">
@@ -267,9 +300,6 @@
         <link dest="union-of-communes-x">
           <desc>Union of communes containing the district</desc>
         </link>
-        <abstract-link>
-          <desc>Links to events, information, etc. related to the commune</desc>
-        </abstract-link>
         <link dest="administrative-portal">
           <desc>Breadcrumb navigation</desc>
         </link>
@@ -285,7 +315,7 @@
       </links>
     </page>
 
-    <page name="union-of-communes-x" tags="public nav portal administrative vote-list">
+    <page name="union-of-communes-x" tags="public nav portal administrative vote-list gen-breadcrumb">
       <desc>Page introducing the union of communes and showing the events or information related to the union of communes</desc>
       <links>
         <link dest="district-x">
@@ -294,9 +324,6 @@
         <link dest="commune-x">
           <desc>Communes contained by the union of communes</desc>
         </link>
-        <abstract-link>
-          <desc>Links to events, information, etc. related to the union of communes</desc>
-        </abstract-link>
         <link dest="administrative-portal">
           <desc>Breadcrumb navigation</desc>
         </link>
@@ -312,7 +339,7 @@
       </links>
     </page>
 
-    <page name="councils-commitees-portal" tags="public nav portal administrative vote-list meeting-list">
+    <page name="councils-commitees-portal" tags="public nav portal administrative vote-list meeting-list gen-breadcrumb">
       <desc>Page describing what are councils and commitees and giving links and search engines for councils and commitees</desc>
       <links>
         <link dest="council-x">
@@ -327,11 +354,11 @@
       </links>
     </page>
 
-    <page name="council-x" tags="public nav portal administrative vote-list meeting-list">
+    <page name="council-x" tags="public nav portal administrative vote-list meeting-list gen-breadcrumb">
       <desc>Page introducing the council and giving information about it</desc>
       <links>
         <link dest="commitee-x">
-          <desc>Commitees managed by, composed by and working partially or fully for the council</desc> <!-- Le commité est controlé/composé partiellement ou entierement par le conseil et/ou il travaille partiellement ou entierement pour le conseil -->
+          <desc>Commitees managed or composed partially or fully by the council or working partially/fully for the council</desc>
         </link>
         <link dest="councils-commitees-portal">
           <desc>Breadcrumb navigation</desc>
@@ -339,10 +366,25 @@
         <link dest="administrative-portal">
           <desc>Breadcrumb navigation</desc>
         </link>
-      </link>
+      </links>
     </page>
 
-    <page name="meeting-x" tags="public nav administrative">
+    <page name="commitee-x" tags="public nav portal administrative vote-list meeting-list gen-breadcrumb">
+      <desc>Page introducing the commitee and giving information about it</desc>
+      <links>
+        <link dest="council-x">
+          <desc>Councils managing the commitee</desc>
+        </link>
+        <link dest="councils-commitees-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="meeting-x" tags="public nav administrative gen-breadcrumb">
       <desc>Page giving information about a meeting (transcript, decisions, ...)</desc>
       <links>
         <abstract-link dest-tags="meeting-list">
@@ -354,7 +396,7 @@
       </links>
     </page>
 
-    <page name="vote-x" tags="public nav administrative">
+    <page name="vote-x" tags="public nav administrative meeting-list gen-breadcrumb">
       <desc>Page giving informations about a vote (transcript, result, status, concerned parties, ...)</desc>
       <links>
         <abstract-link dest-tags="vote-list">
@@ -363,18 +405,437 @@
         <link dest="administrative-portal">
           <desc>Breadcrumb navigation</desc>
         </link>
-        <link dest="voting-page" cond="isLoggedIn and isVoteOpen and !voteCasted">
+        <link dest="voting-page" cond="isLoggedIn and isVoteOpen and !isVoteCasted">
           <desc>Go to voting page</desc>
         </link>
       </links>
     </page>
 
-    <page name="social-portal" tags="public nav portal social">
+    <page name="representatives-portal" tags="public nav portal administrative gen-breadcrumb">
+      <desc>Page describing what is the representatives portal and giving related information</desc>
+      <links>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="representative-x">
+          <desc>Can be accessed by the representatives search engine or other ways</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="representative-x" tags="public nav administrative meeting-list gen-breadcrumb">
+      <desc>Page introducing the representative and giving information about him/her/them/... The representative choose what should appear on this page. All information is hidden by default. The page also shows meetings the representative has been part of.</desc>
+      <links>
+        <abstract-link>
+          <desc>Information the representative choose to show</desc>
+        </abstract-link>
+        <link dest="council-x">
+          <desc>Council(s) the representative is part of</desc>
+        </link>
+        <link cond="isLoggedIn">
+          <actions>
+            <action>
+              <desc>Request a meeting/interview with the representative</desc>
+            </action>
+          </actions>
+        </link>
+        <link dest="representatives-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="general-vote-list" tags="public nav administrative vote-list gen-breadcrumb">
+      <desc>List all votes and provides a search engine for votes</desc>
+      <links>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="associations-portal" tags="public nav portal administrative gen-breadcrumb">
+      <desc>Page describing what are associations and giving information and links about associations</desc>
+      <links>
+        <link dest="association-x">
+          <desc>Can be accessed by the associations search engine or by other ways</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="create-association" cond="isLoggedIn"></link>
+      </links>
+    </page>
+
+    <page name="association-x" tags="public nav portal administrative gen-breadcrumb">
+      <desc>Page introducing the association and giving related links</desc>
+      <links>
+        <link dest="association-x-public-forum"></link>
+        <link dest="association-x-private-forum" cond="isLoggedIn and isPartOfAssociation"></link>
+        <link dest="association-x-chat-server" cond="isLoggedIn and isPartOfAssociation"></link>
+        <link dest="associations-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link cond="isLoggedIn and !isPartOfAssociation">
+          <actions>
+            <action>Join the association (this process may require the approval of the association to really join the association)</action>
+          </actions>
+        </link>
+      </links>
+    </page>
+
+    <page name="association-x-public-forum" tags="public nav administrative gen-breadcrumb">
+      <desc>Association's public forum</desc>
+      <links>
+        <abstract-link>
+          <desc>Forum actions (post, upvote, ...)</desc>
+        </abstract-link>
+        <abstract-link>
+          <desc>Links contained in the posts</desc>
+        </abstract-link>
+        <link dest="association-x">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="associations-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="global-coordinator" tags="public nav portal administrative gen-breadcrumb">
+      <desc>Page explaining what is the Global Coordinator and giving related links</desc>
+      <links>
+        <link dest="gc-to-do-list"></link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="gc-to-do-list" tags="public nav administrative gen-breadcrumb">
+      <desc>Global Coordinator To Do List</desc>
+      <links>
+        <link dest="gc-task">
+          <desc>Accessed by the to do list or other ways</desc>
+        </link>
+        <link dest="global-coordinator">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="gc-add-task" cond="isLoggedIn"></link>
+      </links>
+    </page>
+
+    <page name="gc-task" tags="public nav administrative gen-breadcrumb">
+      <desc>Global Coordinator task details</desc>
+      <links>
+        <abstract-link>
+          <desc>Links related to the task details</desc>
+        </abstract-link>
+        <link dest="gc-to-do-list">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="global-coordinator">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="social-portal" tags="public nav portal social gen-breadcrumb">
       <desc>Page describing what the social portal is and giving links to social pages</desc>
       <links>
         <link dest="exchanges-portal"></link>
         <link dest="communities-portal"></link>
         <link dest="events-portal"></link>
+      </links>
+    </page>
+
+    <page name="exchanges-portal" tags="public nav portal social gen-breadcrumb">
+      <desc>Page describing what exchanges are etc. and giving links related to the portal</desc>
+      <links>
+        <link dest="exchange-x">
+          <desc>Accessed via the service/product exchanges search engine or by other ways</desc>
+        </link>
+        <link dest="give-away-shop-x">
+          <desc>Accessed via the give away shops search engine or by other ways</desc>
+        </link>
+        <link dest="social-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="exchange-x" tags="public nav social gen-breadcrumb">
+      <desc>Page giving information about the service/product exchange</desc>
+      <links>
+        <link cond="isLoggedIn">
+          <actions>
+            <action>Accept/Conclude agreement/... This action could maybe be a page by itself</action>
+          </actions>
+        </link>
+        <link cond="!isLoggedIn and isEnabledByOwner">
+          <actions>
+            <action>Accept/Conclude agreement/... with a non-Akyanet member. This action could maybe be a page by itself</action>
+          </actions>
+        </link>
+        <link dest="exchanges-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="social-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <abstract-link>
+          <desc>Links contained within the details of the exchange</desc>
+        </abstract-link>
+      </links>
+    </page>
+
+    <page name="give-away-shop-x" tags="public nav social gen-breadcrumb">
+      <desc>Page giving information about the give-away shop</desc>
+      <links>
+        <link cond="isLoggedIn">
+          <desc>Accessed via an item in the give-away shop page or by other ways</desc>
+          <actions>
+            <action>Order an item from the give-away shop</action>
+            <action>Verification to prevent abuse</action>
+          </actions>
+        </link>
+        <link cond="!isLoggedIn and isEnabledByOwner">
+          <desc>Accessed via an item in the give-away shop page or by other ways</desc>
+          <actions>
+            <action>Order an item from the give-away shop. The one making the order is a non-Akyanet member</action>
+            <action>Verification to prevent abuse</action>
+          </actions>
+        </link>
+        <link cond="isLoggedIn">
+          <desc>Accessed directly on the give-away shop page</desc>
+          <actions>
+            <action>Donate/Request for donation. This action may become a page</action>
+          </actions>
+        </link>
+        <link cond="!isLoggedIn and isEnabledByOwner">
+          <desc>Accessed directly on the give-away shop page</desc>
+          <actions>
+            <action>Donate/Request for donation from non-Akyanet member. This action may become a page</action>
+          </actions>
+        </link>
+        <link dest="exchanges-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="social-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <abstract-link>
+          <desc>Links contained within the shop</desc>
+        </abstract-link>
+      </links>
+    </page>
+
+    <page name="communities-portal" tags="public nav portal social gen-breadcrumb">
+      <desc>Portal for communities</desc>
+      <links>
+        <link dest="social-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="community-x">
+          <desc>Accessed via the results of the communities search engine or by other ways</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="community-x" tags="public nav portal social gen-breadcrumb">
+      <desc>Community page</desc>
+      <links>
+        <link dest="social-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="communities-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link cond="isLoggedIn and !isPartOfCommunity">
+          <actions>
+            <action>Join the community</action>
+          </actions>
+        </link>
+        <link cond="isLoggedIn and isPartOfCommunity">
+          <actions>
+            <action>Leave the community</action>
+          </actions>
+        </link>
+        <link dest="community-x-chat-server" cond="isLoggedIn and isPartOfCommunity"></link>
+      </links>
+    </page>
+
+    <page name="events-portal" tags="public nav portal social gen-breadcrumb">
+      <desc>Portal for events</desc>
+      <links>
+        <link dest="social-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="event-x">
+          <desc>Accessed via the results of events search engine or by other ways (cards on portal)</desc>
+        </link>
+        <link dest="organize-event" cond="isLoggedIn"></link>
+      </links>
+    </page>
+
+    <page name="event-x" tags="public nav social gen-breadcrumb">
+      <desc>Page describing the event and its status (waiting for approval, closed, open, ...)</desc>
+      <links>
+        <link dest="social-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="events-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link cond="isLoggedIn">
+          <actions>
+            <action>Join the event. Using the chat server could be useful in some cases where a lot of organization is needed</action>
+          </actions>
+        </link>
+        <link dest="event-x-chat-server" cond="isLoggedIn and isEnabled"></link>
+        <abstract-link>
+          <desc>Links contained within the event details or elsewhere</desc>
+        </abstract-link>
+      </links>
+    </page>
+
+    <!-- PRIVATE -->
+
+    <page name="voting-page" tags="private nav administrative">
+      <desc>Page to cast your vote</desc>
+      <links>
+        <link dest="vote-x" cond="isVoteCasted" auto="true">
+          <desc>Return to the vote details once the vote is casted</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="association-x-private-forum" tags="private nav administrative gen-breadcrumb">
+      <desc>Association's private forum</desc>
+      <links>
+        <abstract-link>
+          <desc>Forum actions (post, upvote, ...)</desc>
+        </abstract-link>
+        <abstract-link>
+          <desc>Links contained in the posts</desc>
+        </abstract-link>
+        <link dest="association-x">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="associations-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="association-x-chat-server" tags="private nav administrative gen-breadcrumb">
+      <desc>Association's chat server</desc>
+      <links>
+        <abstract-link>
+          <desc>Chat actions (change channel, nickname, send message, react to message, ...)</desc>
+        </abstract-link>
+        <abstract-link>
+          <desc>Links contained within messages</desc>
+        </abstract-link>
+        <link dest="association-x">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="associations-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="gc-add-task" tags="private nav administrative gen-breadcrumb">
+      <desc>Form to add a task in the Global Coordinator To Do List (priority queue)</desc>
+      <links>
+        <link dest="global-coordinator">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="administrative-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="gc-task" cond="isTaskSent" auto="true">
+          <desc>The task you just sent</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="community-x-chat-server" tags="private nav social gen-breadcrumb">
+      <desc>Community's chat server</desc>
+      <links>
+        <abstract-link>
+          <desc>Chat actions (change channel, nickname, send message, react to message, ...)</desc>
+        </abstract-link>
+        <abstract-link>
+          <desc>Links contained within messages</desc>
+        </abstract-link>
+        <link dest="community-x">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="communities-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="social-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="event-x-chat-server" tags="private nav social gen-breadcrumb">
+      <desc>Event's chat server</desc>
+      <links>
+        <abstract-link>
+          <desc>Chat actions (change channel, nickname, send message, react to message, ...)</desc>
+        </abstract-link>
+        <abstract-link>
+          <desc>Links contained within messages</desc>
+        </abstract-link>
+        <link dest="event-x">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="events-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="social-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+      </links>
+    </page>
+
+    <page name="organize-event" tags="private nav social gen-breadcrumb">
+      <desc>Form to organize an event</desc>
+      <links>
+        <link dest="event-x" cond="isEventSent" auto="true">
+          <desc>Redirects you on your event once you sent the form</desc>
+        </link>
+        <link dest="events-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
+        <link dest="social-portal">
+          <desc>Breadcrumb navigation</desc>
+        </link>
       </links>
     </page>
 
@@ -387,15 +848,25 @@
       </links>
     </page>
 
-    <page name="voting-page" tags="private nav administrative">
-      <desc>Page to cast your vote</desc>
+    <page name="my-associations" tags="private nav">
+      <desc>Page showing the associations the user is part of</desc>
       <links>
-        <!-- mh? -->
-        <link dest="vote-x" cond="voteCasted" auto="true">
-          <desc>Return to the vote details once the vote is casted</desc>
+        <link dest="association-x">
+          <desc>Accessed via results from the list or by other ways</desc>
         </link>
+        <link dest="create-association"></link>
       </links>
     </page>
 
+    <page name="create-association" tags="private nav">
+      <desc>Form to create an association</desc>
+      <links>
+        <link dest="association-x" cond="isAssociationCreationSent" auto="true">
+          <actions>
+            <action>Redirects you on the page of the association you just created</action>
+          </actions>
+        </link>
+      </links>
+    </page>
   </pages>
 </sitemap>
