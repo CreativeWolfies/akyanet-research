@@ -248,6 +248,10 @@ In cases of recidivism, violent actions, etc., emergency response teams can be d
 Then, the district or commune (if the district refuses to take the case) where the member is living can decide the fate of his social contract and if he needs a psychological or medical intervention, if he needs to understand more about something (Social workers will take care of this.), or, in extreme cases, if he needs to be kicked from his district/commune/union of commune, or even Akyanet.
 But you must remember that coercive forces must be avoided.
 
+Laws and rules shall be made in a minimal way.
+The shall be understandable and atomic.
+Enforcing these laws and rules should be made carefully and by cooperating with social workers as well as scientists and others.
+
 ### Global Coordinator
 
 The Global Coordinator, abbreviated GC, is a group of representatives, emergency response teams' representatives, professionals, experts, and individuals.
@@ -440,7 +444,7 @@ But in the case of militias, the use of their firearms should be closely monitor
 
 The composition of these teams is based on voluntary service.
 
-ERTs equipment is given by Akyanet (the organizer entity if they have enough equipment or other Akyanet entities (districts, communes, unions of communes, associations)).
+ERTs' equipment is given by Akyanet (the organizer entity if they have enough equipment or other Akyanet entities (districts, communes, unions of communes, associations)).
 
 These teams are not limited to the borders of its organizer entity.
 They could even help people outside Akyanet.
@@ -448,6 +452,9 @@ They could even help people outside Akyanet.
 Since ERTs are autonomous, they can choose how they organize themselves, for instance, by creating a pseudo-hierarchy (choosing democratically the one to give orders, etc.).
 
 As for hierarchies, these pseudo-hierarchies must be justifiable.
+
+Below is a list of some vital ERTs, but there could be new teams.
+For example, an ERT can be created for managing road traffic or enforcing road traffic laws.
 
 #### Fire
 
@@ -884,6 +891,9 @@ Hunting is an activity which have a negative impact on wildlife.
 This is why, in Akyanet, we should avoid it, and maybe even prohibit it.
 
 Animals deserve rights too.
+
+Some exceptions can be made for hunting, for instance, invasive species can be hunted if they poses a threat to the wildlife equilibrium.
+This kind of exceptional hunting must be closely monitored.
 
 ### Road traffic
 
