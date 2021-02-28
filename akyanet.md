@@ -329,6 +329,10 @@ As for districts, you are free to leave an association whenever you want.
 In Akyanet, the 20-hour week will be established (4h per day for 5 days).
 You are free to organize your work days, like, instead of 4 hours per day for 5 days, you could do 8h per day for 2 days followed by 4 hours of work the next day.
 
+A week is not uniquely the five first days from Monday.
+It also includes the weekend (Saturday, Sunday).
+You can work anytime you want as long as you do your work.
+
 In some cases, the work week can be longer.
 For instance, emergency response teams will have longer work weeks.
 But, in compensation, they can be exempted from essential tasks if they want to.
@@ -429,6 +433,11 @@ If you want to take off days for these holidays or for other occasions, you are 
 But you must remember that working is vital for the community.
 
 If you are part of one or multiple associations, you will, maybe, have to find a common ground with your coworkers to organize your work and when you will take off days.
+
+If a member of your family or your entourage dies, you have the right to claim a leave that can be extended up to 14-days (the maximum duration of this leave can change).
+You are not obliged to claim this leave, but you have the right.
+
+Other events could give the right to claim similar leaves.
 
 ### Emergency Response Teams (ERTs)
 
