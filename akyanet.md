@@ -860,12 +860,14 @@ If a member pretends to be the original author of a creation when he is not, the
 This licensing system is the one by default.
 Meaning that if a creation does not have a license attached to it, if you make changes to it or you simply repost it, you have to mention the original creator, etc.
 
-You cannot license anything.
+You cannot license everything.
 The creation must be reasonably complex (e.g. you cannot license a color or a shape).
 
 In some cases, you can limit the use of a creation.
 For instance, if you create a logo for your association and you use it as a seal (to indicate the origin of some documents for example), you do not want someone else to use it as it could mislead some members.
 In this situation, you have to mention the usage limitations in the license and you have to provide a valid justification of why you need these usage limitations.
+
+[Creative Commons](https://creativecommons.org/) can acheive this role of "licenses".
 
 ### Akyanet website and its maintenance
 
@@ -1065,6 +1067,7 @@ Anyway, I hope this whole document and the future Akyanet website will help maki
 - [https://en.wikipedia.org/wiki/Weapon_of_mass_destruction](https://en.wikipedia.org/wiki/Weapon_of_mass_destruction). Retrieved 22:00 CET, January 27, 2021.
 - [https://en.wikipedia.org/wiki/Consensus_decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making). Retrieved 16:00 CET, Fabruary 14, 2021.
 - [https://en.wikipedia.org/wiki/General_Data_Protection_Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation). Retrieved 16:30 CET, February 14, 2021.
+- [https://creativecommons.org/](https://creativecommons.org/)
 
 ## Thanks
 
