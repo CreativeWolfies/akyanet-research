@@ -1,4 +1,4 @@
-<p align="center"><img src="/assets/images/akyanet-logo.svg" alt="Akyanet logo" width="500" height="300" /></p>
+<p align="center"><img src="/assets/images/akyanet-flag.svg" alt="Akyanet logo" width="500" height="300" /></p>
 
 <h1 align="center">Akyanet documentation</h1>
 

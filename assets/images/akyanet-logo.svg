@@ -1,42 +1,58 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="5000" height="3000" version="1.1" xmlns="http://www.w3.org/2000/svg"> <!-- 3:5 aspect ratio -->
+<?xml version="1.0" encoding="utf-8" ?>
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg"> <!-- 1:1 aspect ratio -->
   <defs>
-    <!-- Simplified Akyanet flag clip path -->
-    <clipPath id="akyanet-flag-clip">
-      <!-- circle radius is 4/5th of half of the flag height -->
-      <!-- Reminder: Circle square starts at 1300, 300 and ends at 3700, 2700. -->
-      <circle cx="2500" cy="1500" r="1200" fill="none" stroke="none" />
+    <clipPath id="center-clip">
+      <!-- Circle radius is the size minus the border size -->
+      <!--
+        r + 1/2 * 1/10 * r + 1/10 * r = 500
+        r + 1/20 * r + 1/10 * r = 500
+        21/20 * r + 1/10 * r = 500
+        21/20 * r + 2/20 * r = 500
+        23/20 * r = 500
+        r = 500 / (23 / 20)
+        r ~= 434.8
+      -->
+      <!--
+        Circle box:
+          top left: 65.2, 65.2
+          top right: 934.8, 65.2
+          bottom left: 65.2, 934.8
+          bottom right: 934.8, 934.8
+      -->
+      <circle cx="500" cy="500" r="434.8" />
     </clipPath>
 
-    <!-- Linear gradient for circle outline (Simplified Akyanet flag) -->
-    <linearGradient id="akyanet-flag-circle-outline" gradientTransform="rotate(45)">
+    <clipPath id="logo-clip">
+      <circle cx="500" cy="500" r="500" />
+    </clipPath>
+
+    <!-- Reminder: this border can be rotated however you want -->
+    <linearGradient id="center-border" gradientTransform="rotate(45)">
       <stop offset="0%" stop-color="#3494e6" />
       <stop offset="100%" stop-color="#ec6ead" />
     </linearGradient>
   </defs>
 
-  <!-- Anarcho-communist flag -->
+  <!-- Anarcho-communist flag. Can be flipped vertically and horizontally. -->
+  <polygon points="0 0, 1000 1000, 0 1000" fill="#000000" clip-path="url(#logo-clip)" />
+  <polygon points="0 0, 1000 1000, 1000 0" fill="#ff0000" clip-path="url(#logo-clip)" />
 
-  <polygon points="0 0, 5000 3000, 0 3000" fill="#000000" />
-  <polygon points="0 0, 5000 3000, 5000 0" fill="#ff0000" />
+  <!-- White background of the circle -->
+  <circle cx="500" cy="500" r="434.8" fill="#ffffff" />
 
-  <!-- Simplified Akyanet flag -->
-
-  <!-- circle radius is 4/5th of half of the flag height -->
-  <circle cx="2500" cy="1500" r="1200" fill="#ffffff" stroke="none" />
-
-  <!-- Inner symbol shadow -->
-  <polyline points="1600 2700, 2500 300, 3400 2700" fill="none" stroke="#56ccf2" stroke-width="240" clip-path="url(#akyanet-flag-clip)" /> <!-- Stroke width is 1/5th of the circle radius; the "legs" of "normal" A are positioned horizontally at 1/4th towards the circle center compared to the circle box. -->
-  <polyline points="1600 300, 2500 2700, 3400 300" fill="none" stroke="#56ccf2" stroke-width="240" clip-path="url(#akyanet-flag-clip)" /> <!-- Same story -->
-  <line x1="1300" y1="1500" x2="3700" y2="1500" fill="none" stroke="#56ccf2" stroke-width="240" clip-path="url(#akyanet-flag-clip)" />
+  <!-- Inner symbol's shadow -->
+  <!-- Stroke width is 1/5th of the circle radius; the "legs" of "normal" A are positioned horizontally at 1/4th towards the circle center compared to the circle box. -->
+  <polyline points="178 934.8, 500 65.2, 826 934.8" stroke="#56ccf2" stroke-width="87" clip-path="url(#center-clip)" fill="none" />
+  <polyline points="178 65.2, 500 934.8, 826 65.2" stroke="#56ccf2" stroke-width="87" clip-path="url(#center-clip)" fill="none" />
+  <line x1="65.2" y1="500" x2="934.8" y2="500" stroke="#56ccf2" stroke-width="87" clip-path="url(#center-clip)" />
 
   <!-- Inner symbol -->
-  <polyline points="1600 2700, 2500 300, 3400 2700" fill="none" stroke="#000000" stroke-width="150" clip-path="url(#akyanet-flag-clip)" /> <!-- Stroke width is 1/8th of the circle radius; the "legs" of "normal" A are positioned horizontally at 1/4th towards the circle center compared to the circle box. -->
-  <polyline points="1600 300, 2500 2700, 3400 300" fill="none" stroke="#000000" stroke-width="150" clip-path="url(#akyanet-flag-clip)" /> <!-- Same story -->
-  <line x1="1300" y1="1500" x2="3700" y2="1500" fill="none" stroke="#000000" stroke-width="150" clip-path="url(#akyanet-flag-clip)" />
+  <!-- Stroke width is 1/8th of the circle radius; the "legs" of "normal" A are positioned horizontally at 1/4th towards the circle center compared to the circle box. -->
+  <polyline points="178 934.8, 500 65.2, 826 934.8" stroke="#000000" stroke-width="54.3" clip-path="url(#center-clip)" fill="none" />
+  <polyline points="178 65.2, 500 934.8, 826 65.2" stroke="#000000" stroke-width="54.3" clip-path="url(#center-clip)" fill="none" />
+  <line x1="65.2" y1="500" x2="934.8" y2="500" stroke="#000000" stroke-width="54.3" clip-path="url(#center-clip)" />
 
   <!-- Circle outline -->
-  <circle cx="2500" cy="1500" r="1165" fill="none" stroke="url(#akyanet-flag-circle-outline)" stroke-width="116.5" /> <!-- Stroke width is 1/10th of the circle radius -->
-
-
+  <!-- Stroke width is 1/10th of the circle radius -->
+  <circle cx="500" cy="500" r="434.8" stroke="url(#center-border)" stroke-width="43.4" fill="none" />
 </svg>
